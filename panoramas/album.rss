@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>panoramas</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Australia/album.rss" />   	
+    	<jalbum:link rel="sub" href="Canada/album.rss" />   	
+    	<jalbum:link rel="sub" href="Florence/album.rss" />   	
+    	<jalbum:link rel="sub" href="Italy/album.rss" />   	
+    	<jalbum:link rel="sub" href="The Lake District/album.rss" />   	
+    	<jalbum:link rel="sub" href="Others/album.rss" />   	
+        
+    </channel>
+</rss>

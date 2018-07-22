@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>animals</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20061014 Fox</title>
+            <link>slides/20061014%20Fox.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:52:58 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20061014%20Fox.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20061014%20Fox.jpg" width="1080" height="780"/>
+            <jalbum:exif originalDate="Sat, 14 Oct 2006 12:05:06 +0100" cameraMake="Canon" cameraModel="Canon PowerShot A410"/>
+            <guid isPermaLink="false">slides/20061014%20Fox.jpg</guid>
+        </item>
+        <item>
+            <title>20090502 Frog</title>
+            <link>slides/20090502%20Frog.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:52:58 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20090502%20Frog.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20090502%20Frog.jpg" width="1080" height="780"/>
+            <jalbum:exif originalDate="Sat, 02 May 2009 16:53:28 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/20090502%20Frog.jpg</guid>
+        </item>
+        <item>
+            <title>20100706 Hedgehog</title>
+            <link>slides/20100706%20Hedgehog.JPG</link>
+            <pubDate>Fri, 06 Jul 2018 13:52:58 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20100706%20Hedgehog.JPG" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20100706%20Hedgehog.JPG" width="1030" height="780"/>
+            <jalbum:exif originalDate="Tue, 06 Jul 2010 20:39:43 +0100" cameraMake="Canon" cameraModel="Canon PowerShot A410"/>
+            <guid isPermaLink="false">slides/20100706%20Hedgehog.JPG</guid>
+        </item>
+        <item>
+            <title>20160523 wildlife camera - hedgehog</title>
+            <link>slides/20160523%20wildlife%20camera%20-%20hedgehog.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:52:58 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20160523%20wildlife%20camera%20-%20hedgehog.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20160523%20wildlife%20camera%20-%20hedgehog.jpg" width="1030" height="780"/>
+            <jalbum:exif originalDate="Fri, 20 Feb 2015 15:49:18 +0000" cameraMake="RaspberryPi" cameraModel="RP_OV5647"/>
+            <guid isPermaLink="false">slides/20160523%20wildlife%20camera%20-%20hedgehog.jpg</guid>
+        </item>
+        <item>
+            <title>20160522 - hedgehog</title>
+            <link>slides/20160522%20-%20hedgehog.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:52:58 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20160522%20-%20hedgehog.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20160522%20-%20hedgehog.jpg" width="1083" height="780"/>
+            <jalbum:exif originalDate="Sun, 22 May 2016 19:47:45 +0100" cameraMake="SAMSUNG" cameraModel="GT-I9195"/>
+            <guid isPermaLink="false">slides/20160522%20-%20hedgehog.jpg</guid>
+        </item>
+    </channel>
+</rss>

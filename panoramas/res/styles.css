@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.hint {
+	color:#ccc;
+	background-color:rgba(17,17,17,0.9);
+}
+.no-rgba .hint {
+	background-color:transparent;
+	background-image:url(k90.png);
+}
+.hint > .nub {
+	border-color: transparent transparent rgba(17,17,17,0.9) transparent;
+}
+.hint.valign-top > .nub {
+	border-color: rgba(17,17,17,0.9) transparent transparent transparent;
+}
+.hint.valign-middle.align-left > .nub {
+	border-color: transparent transparent transparent rgba(17,17,17,0.9);
+	right: -16px;
+}
+.hint.valign-middle.align-right > .nub {
+	border-color: transparent rgba(17,17,17,0.9) transparent transparent;
+}
+.hint a {
+	color:#dddddd;
+}
+.hint a:hover {
+	color:#ffffff;
+}
+.hint .breadcrumb a:hover {
+	background-color:rgba(255,255,255,0.2);
+}
+.hint .breadcrumb a:hover {
+	background-color:transparent;
+	background-image:url(w20.png);
+}
+
+
+.thumbs td > .caption span.nr {
+	font-weight:bold;
+	color:#222;
+}

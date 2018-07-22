@@ -1,0 +1,64 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: rgba(0,0,0,1.0);
+}
+.mx-mapcontainer {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	width: 830px;
+	height: 670px;
+	background-color: transparent;
+	border-radius: 0px;
+	z-index: 2;
+}
+.mx-mapbox {
+	background-color: #cccccc;
+	height: 600px;
+	padding: 15px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #cccccc;
+	border-radius: 0px;
+	
+}
+.mx-mapcanvas {
+	width: 800px;
+	height: 600px;
+	box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+	border-radius: 0px;
+}
+.mx-buttonbox {
+	background-color: #cccccc;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #cccccc;
+	border-radius: 0px;
+	margin-top: 5px;
+	padding: 5px 0px;
+	text-align: center;
+}
+.mx-buttontext {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	padding: 0px 5px 0px;
+	cursor: pointer;
+	vertical-align: middle;
+	text-shadow: none;
+}
+.mx-mapdim {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	opacity: 0.85;
+	z-index: 1;
+}

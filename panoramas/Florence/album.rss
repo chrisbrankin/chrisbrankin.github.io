@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Florence</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Ponte Vecchio at night</title>
+            <link>slides/Ponte Vecchio at night.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ponte Vecchio at night.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Ponte Vecchio at night.JPG" width="1610" height="600"/>
+            <guid isPermaLink="false">slides/Ponte Vecchio at night.JPG</guid>
+        </item>
+        <item>
+            <title>Ponte Vecchio from the Uffizi</title>
+            <link>slides/Ponte Vecchio from the Uffizi.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ponte Vecchio from the Uffizi.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Ponte Vecchio from the Uffizi.JPG" width="1502" height="600"/>
+            <guid isPermaLink="false">slides/Ponte Vecchio from the Uffizi.JPG</guid>
+        </item>
+        <item>
+            <title>Florence wider skyline</title>
+            <link>slides/Florence wider skyline.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Florence wider skyline.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Florence wider skyline.JPG" width="4049" height="600"/>
+            <guid isPermaLink="false">slides/Florence wider skyline.JPG</guid>
+        </item>
+        <item>
+            <title>Ponte  Vecchio and the Uffizi</title>
+            <link>slides/Ponte  Vecchio and the Uffizi.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ponte  Vecchio and the Uffizi.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Ponte  Vecchio and the Uffizi.JPG" width="1899" height="600"/>
+            <guid isPermaLink="false">slides/Ponte  Vecchio and the Uffizi.JPG</guid>
+        </item>
+        <item>
+            <title>On the Ponte Vecchio</title>
+            <link>slides/On the Ponte Vecchio.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/On the Ponte Vecchio.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/On the Ponte Vecchio.JPG" width="2272" height="600"/>
+            <guid isPermaLink="false">slides/On the Ponte Vecchio.JPG</guid>
+        </item>
+        <item>
+            <title>Florence skyline</title>
+            <link>slides/Florence skyline.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Florence skyline.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Florence skyline.JPG" width="3321" height="600"/>
+            <guid isPermaLink="false">slides/Florence skyline.JPG</guid>
+        </item>
+        <item>
+            <title>Ponte Vecchio</title>
+            <link>slides/Ponte Vecchio.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ponte Vecchio.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Ponte Vecchio.JPG" width="1698" height="600"/>
+            <guid isPermaLink="false">slides/Ponte Vecchio.JPG</guid>
+        </item>
+    </channel>
+</rss>

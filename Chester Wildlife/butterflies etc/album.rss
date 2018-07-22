@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>butterflies etc</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20120816 peacock</title>
+            <link>slides/20120816%20peacock.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20120816%20peacock.jpg" width="160" height="115"/>
+            <media:content type="image/jpeg" url="slides/20120816%20peacock.jpg" width="1072" height="780"/>
+            <jalbum:exif originalDate="Thu, 16 Aug 2012 16:03:37 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/20120816%20peacock.jpg</guid>
+        </item>
+        <item>
+            <title>20130811 Small Tortoiseshell</title>
+            <link>slides/20130811%20Small%20Tortoiseshell.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20130811%20Small%20Tortoiseshell.jpg" width="160" height="115"/>
+            <media:content type="image/jpeg" url="slides/20130811%20Small%20Tortoiseshell.jpg" width="1072" height="780"/>
+            <jalbum:exif originalDate="Sun, 11 Aug 2013 12:19:04 +0100" cameraMake="Canon" cameraModel="Canon PowerShot A640"/>
+            <guid isPermaLink="false">slides/20130811%20Small%20Tortoiseshell.jpg</guid>
+        </item>
+        <item>
+            <title>20150515 Speckled Wood</title>
+            <link>slides/20150515%20Speckled%20Wood.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150515%20Speckled%20Wood.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20150515%20Speckled%20Wood.jpg" width="1079" height="780"/>
+            <jalbum:exif originalDate="Fri, 15 May 2015 14:28:52 +0100" cameraMake="SAMSUNG" cameraModel="GT-I9195"/>
+            <guid isPermaLink="false">slides/20150515%20Speckled%20Wood.jpg</guid>
+        </item>
+        <item>
+            <title>20150808 Gatekeeper</title>
+            <link>slides/20150808%20Gatekeeper.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150808%20Gatekeeper.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20150808%20Gatekeeper.jpg" width="1080" height="780"/>
+            <jalbum:exif originalDate="Sat, 08 Aug 2015 11:52:19 +0100" cameraMake="SAMSUNG" cameraModel="GT-I9195"/>
+            <guid isPermaLink="false">slides/20150808%20Gatekeeper.jpg</guid>
+        </item>
+        <item>
+            <title>20150811 Common Blue</title>
+            <link>slides/20150811%20Common%20Blue.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150811%20Common%20Blue.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20150811%20Common%20Blue.jpg" width="1081" height="780"/>
+            <jalbum:exif originalDate="Tue, 11 Aug 2015 07:51:38 +0100" cameraMake="SAMSUNG" cameraModel="GT-I9195"/>
+            <guid isPermaLink="false">slides/20150811%20Common%20Blue.jpg</guid>
+        </item>
+        <item>
+            <title>20130808 Large White</title>
+            <link>slides/20130808%20Large%20White.JPG</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20130808%20Large%20White.JPG" width="160" height="113"/>
+            <media:content type="image/jpeg" url="slides/20130808%20Large%20White.JPG" width="1090" height="780"/>
+            <jalbum:exif originalDate="Thu, 08 Aug 2013 08:43:45 +0100" cameraMake="Canon" cameraModel="Canon PowerShot A640"/>
+            <guid isPermaLink="false">slides/20130808%20Large%20White.JPG</guid>
+        </item>
+        <item>
+            <title>20170514 Holly Blue</title>
+            <link>slides/20170514%20Holly%20Blue.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170514%20Holly%20Blue.jpg" width="160" height="119"/>
+            <media:content type="image/jpeg" url="slides/20170514%20Holly%20Blue.jpg" width="1042" height="780"/>
+            <jalbum:exif originalDate="Sun, 14 May 2017 14:47:15 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170514%20Holly%20Blue.jpg</guid>
+        </item>
+        <item>
+            <title>20170709 Comma</title>
+            <link>slides/20170709%20Comma.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170709%20Comma.jpg" width="160" height="115"/>
+            <media:content type="image/jpeg" url="slides/20170709%20Comma.jpg" width="929" height="674"/>
+            <jalbum:exif originalDate="Sun, 09 Jul 2017 12:07:47 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170709%20Comma.jpg</guid>
+        </item>
+        <item>
+            <title>20170715 Red Admiral</title>
+            <link>slides/20170715%20Red%20Admiral.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170715%20Red%20Admiral.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20170715%20Red%20Admiral.jpg" width="1083" height="780"/>
+            <jalbum:exif originalDate="Sat, 15 Jul 2017 13:20:29 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170715%20Red%20Admiral.jpg</guid>
+        </item>
+        <item>
+            <title>20170807 southern hawker dragonfly</title>
+            <link>slides/20170807%20southern%20hawker%20dragonfly.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170807%20southern%20hawker%20dragonfly.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20170807%20southern%20hawker%20dragonfly.jpg" width="1081" height="780"/>
+            <jalbum:exif originalDate="Mon, 07 Aug 2017 18:43:38 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170807%20southern%20hawker%20dragonfly.jpg</guid>
+        </item>
+        <item>
+            <title>20180522 White Orange Tip</title>
+            <link>slides/20180522%20White%20Orange%20Tip.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180522%20White%20Orange%20Tip.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20180522%20White%20Orange%20Tip.jpg" width="1079" height="780"/>
+            <jalbum:exif originalDate="Tue, 22 May 2018 14:10:12 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20180522%20White%20Orange%20Tip.jpg</guid>
+        </item>
+        <item>
+            <title>20180609 Chalk-Hill Blue</title>
+            <link>slides/20180609%20Chalk-Hill%20Blue.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180609%20Chalk-Hill%20Blue.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20180609%20Chalk-Hill%20Blue.jpg" width="1082" height="780"/>
+            <jalbum:exif originalDate="Sat, 09 Jun 2018 13:08:01 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20180609%20Chalk-Hill%20Blue.jpg</guid>
+        </item>
+        <item>
+            <title>20180609 Cinnabar Moth</title>
+            <link>slides/20180609%20Cinnabar%20Moth.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180609%20Cinnabar%20Moth.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20180609%20Cinnabar%20Moth.jpg" width="1031" height="743"/>
+            <guid isPermaLink="false">slides/20180609%20Cinnabar%20Moth.jpg</guid>
+        </item>
+    </channel>
+</rss>

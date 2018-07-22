@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>wildflowers</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>orange hawkweed</title>
+            <link>slides/orange%20hawkweed.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/orange%20hawkweed.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/orange%20hawkweed.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Thu, 05 Jul 2012 12:45:08 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/orange%20hawkweed.jpg</guid>
+        </item>
+        <item>
+            <title>purple toadflax</title>
+            <link>slides/purple%20toadflax.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/purple%20toadflax.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/purple%20toadflax.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Thu, 05 Jul 2012 12:47:26 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/purple%20toadflax.jpg</guid>
+        </item>
+        <item>
+            <title>self heal</title>
+            <link>slides/self%20heal.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/self%20heal.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/self%20heal.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Thu, 12 Jul 2012 11:20:19 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/self%20heal.jpg</guid>
+        </item>
+        <item>
+            <title>white clover</title>
+            <link>slides/white%20clover.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/white%20clover.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/white%20clover.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Sun, 08 Jul 2012 13:15:58 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/white%20clover.jpg</guid>
+        </item>
+        <item>
+            <title>Great Willowherb</title>
+            <link>slides/Great%20Willowherb.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Great%20Willowherb.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/Great%20Willowherb.jpg" width="1080" height="780"/>
+            <jalbum:exif originalDate="Fri, 10 Aug 2012 09:48:38 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/Great%20Willowherb.jpg</guid>
+        </item>
+        <item>
+            <title>Ragwort</title>
+            <link>slides/Ragwort.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ragwort.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/Ragwort.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Fri, 10 Aug 2012 12:27:33 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/Ragwort.jpg</guid>
+        </item>
+        <item>
+            <title>dandelion</title>
+            <link>slides/dandelion.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dandelion.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/dandelion.jpg" width="1087" height="780"/>
+            <jalbum:exif originalDate="Thu, 16 May 2013 10:50:47 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/dandelion.jpg</guid>
+        </item>
+        <item>
+            <title>daisy</title>
+            <link>slides/daisy.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/daisy.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/daisy.jpg" width="1086" height="780"/>
+            <jalbum:exif originalDate="Thu, 16 May 2013 10:54:55 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/daisy.jpg</guid>
+        </item>
+        <item>
+            <title>blubells</title>
+            <link>slides/blubells.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/blubells.jpg" width="160" height="115"/>
+            <media:content type="image/jpeg" url="slides/blubells.jpg" width="1076" height="780"/>
+            <jalbum:exif originalDate="Thu, 16 May 2013 10:47:03 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/blubells.jpg</guid>
+        </item>
+        <item>
+            <title>welsh poppy</title>
+            <link>slides/welsh%20poppy.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/welsh%20poppy.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/welsh%20poppy.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Mon, 03 Jun 2013 14:24:19 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/welsh%20poppy.jpg</guid>
+        </item>
+        <item>
+            <title>forgetmenot</title>
+            <link>slides/forgetmenot.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/forgetmenot.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/forgetmenot.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Mon, 03 Jun 2013 11:09:31 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/forgetmenot.jpg</guid>
+        </item>
+        <item>
+            <title>Dandelion Clock</title>
+            <link>slides/Dandelion%20Clock.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Dandelion%20Clock.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/Dandelion%20Clock.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Mon, 03 Jun 2013 10:53:45 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/Dandelion%20Clock.jpg</guid>
+        </item>
+        <item>
+            <title>columbine</title>
+            <link>slides/columbine.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/columbine.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/columbine.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Mon, 03 Jun 2013 14:11:06 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/columbine.jpg</guid>
+        </item>
+        <item>
+            <title>green alkanet</title>
+            <link>slides/green%20alkanet.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/green%20alkanet.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/green%20alkanet.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Sat, 08 Jun 2013 11:29:23 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/green%20alkanet.jpg</guid>
+        </item>
+        <item>
+            <title>buttercup</title>
+            <link>slides/buttercup.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/buttercup.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/buttercup.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Sat, 08 Jun 2013 11:35:34 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/buttercup.jpg</guid>
+        </item>
+        <item>
+            <title>little robin</title>
+            <link>slides/little%20robin.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/little%20robin.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/little%20robin.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Sat, 08 Jun 2013 17:12:12 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/little%20robin.jpg</guid>
+        </item>
+        <item>
+            <title>herb bennet</title>
+            <link>slides/herb%20bennet.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/herb%20bennet.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/herb%20bennet.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Sat, 08 Jun 2013 17:08:48 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/herb%20bennet.jpg</guid>
+        </item>
+        <item>
+            <title>Monkey Flower</title>
+            <link>slides/Monkey%20Flower.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Monkey%20Flower.jpg" width="160" height="116"/>
+            <media:content type="image/jpeg" url="slides/Monkey%20Flower.jpg" width="1067" height="780"/>
+            <jalbum:exif originalDate="Wed, 19 Jun 2013 17:08:48 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/Monkey%20Flower.jpg</guid>
+        </item>
+        <item>
+            <title>Foxglove</title>
+            <link>slides/Foxglove.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Foxglove.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/Foxglove.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Wed, 19 Jun 2013 09:07:51 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/Foxglove.jpg</guid>
+        </item>
+        <item>
+            <title>Broom</title>
+            <link>slides/Broom.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Broom.jpg" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/Broom.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="Wed, 19 Jun 2013 09:10:56 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/Broom.jpg</guid>
+        </item>
+        <item>
+            <title>cowslips</title>
+            <link>slides/cowslips.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cowslips.jpg" width="160" height="115"/>
+            <media:content type="image/jpeg" url="slides/cowslips.jpg" width="1075" height="780"/>
+            <jalbum:exif originalDate="Mon, 21 Apr 2014 08:52:58 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/cowslips.jpg</guid>
+        </item>
+        <item>
+            <title>scarlet pimpernel</title>
+            <link>slides/scarlet%20pimpernel.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/scarlet%20pimpernel.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/scarlet%20pimpernel.jpg" width="1085" height="780"/>
+            <jalbum:exif originalDate="Wed, 23 Jul 2014 13:24:11 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/scarlet%20pimpernel.jpg</guid>
+        </item>
+        <item>
+            <title>lobelia erinus</title>
+            <link>slides/lobelia%20erinus.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lobelia%20erinus.jpg" width="114" height="160"/>
+            <media:content type="image/jpeg" url="slides/lobelia%20erinus.jpg" width="565" height="780"/>
+            <jalbum:exif originalDate="Thu, 24 Jul 2014 07:43:17 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/lobelia%20erinus.jpg</guid>
+        </item>
+        <item>
+            <title>lemon balm</title>
+            <link>slides/lemon%20balm.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lemon%20balm.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/lemon%20balm.jpg" width="1081" height="780"/>
+            <jalbum:exif originalDate="Thu, 24 Jul 2014 15:23:36 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/lemon%20balm.jpg</guid>
+        </item>
+        <item>
+            <title>Common Catsear</title>
+            <link>slides/Common%20Catsear.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Common%20Catsear.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/Common%20Catsear.jpg" width="1081" height="780"/>
+            <jalbum:exif originalDate="Mon, 28 Jul 2014 10:14:34 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/Common%20Catsear.jpg</guid>
+        </item>
+        <item>
+            <title>20180603 Salsify</title>
+            <link>slides/20180603%20Salsify.jpg</link>
+            <pubDate>Fri, 06 Jul 2018 13:53:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180603%20Salsify.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/20180603%20Salsify.jpg" width="1363" height="780"/>
+            <jalbum:exif originalDate="Sun, 03 Jun 2018 12:50:42 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20180603%20Salsify.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>natural world - Chester garden</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="animals/album.rss" />   	
+    	<jalbum:link rel="sub" href="birds/album.rss" />   	
+    	<jalbum:link rel="sub" href="butterflies%20etc/album.rss" />   	
+    	<jalbum:link rel="sub" href="wildflowers/album.rss" />   	
+        
+    </channel>
+</rss>

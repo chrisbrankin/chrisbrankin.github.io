@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Canada</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Vancouver</title>
+            <link>slides/Vancouver.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Vancouver.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Vancouver.JPG" width="2554" height="600"/>
+            <guid isPermaLink="false">slides/Vancouver.JPG</guid>
+        </item>
+        <item>
+            <title>View from Sulphur Mountain Banff</title>
+            <link>slides/View from Sulphur Mountain Banff.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/View from Sulphur Mountain Banff.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/View from Sulphur Mountain Banff.JPG" width="6590" height="600"/>
+            <guid isPermaLink="false">slides/View from Sulphur Mountain Banff.JPG</guid>
+        </item>
+        <item>
+            <title>North Vancouver waterfront</title>
+            <link>slides/North Vancouver waterfront.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/North Vancouver waterfront.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/North Vancouver waterfront.JPG" width="6027" height="600"/>
+            <guid isPermaLink="false">slides/North Vancouver waterfront.JPG</guid>
+        </item>
+        <item>
+            <title>Banff Railway Station</title>
+            <link>slides/Banff Railway Station.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Banff Railway Station.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Banff Railway Station.JPG" width="6916" height="600"/>
+            <guid isPermaLink="false">slides/Banff Railway Station.JPG</guid>
+        </item>
+        <item>
+            <title>View from Vermillion lakes Road</title>
+            <link>slides/View from Vermillion lakes Road.JPG</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/View from Vermillion lakes Road.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/View from Vermillion lakes Road.JPG" width="2833" height="600"/>
+            <guid isPermaLink="false">slides/View from Vermillion lakes Road.JPG</guid>
+        </item>
+        <item>
+            <title>20170818 Prospect Lake cottage</title>
+            <link>slides/20170818 Prospect Lake cottage.jpg</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170818 Prospect Lake cottage.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20170818 Prospect Lake cottage.jpg" width="6849" height="600"/>
+            <jalbum:exif originalDate="Fri, 18 Aug 2017 08:31:09 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170818 Prospect Lake cottage.jpg</guid>
+        </item>
+        <item>
+            <title>20170818 Prospect Lake cottage 1</title>
+            <link>slides/20170818 Prospect Lake cottage 1.jpg</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170818 Prospect Lake cottage 1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20170818 Prospect Lake cottage 1.jpg" width="6542" height="600"/>
+            <jalbum:exif originalDate="Fri, 18 Aug 2017 14:40:07 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170818 Prospect Lake cottage 1.jpg</guid>
+        </item>
+        <item>
+            <title>20170820 Toronto Skyline</title>
+            <link>slides/20170820 Toronto Skyline.jpg</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170820 Toronto Skyline.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20170820 Toronto Skyline.jpg" width="2291" height="600"/>
+            <jalbum:exif originalDate="Sun, 20 Aug 2017 14:51:20 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170820 Toronto Skyline.jpg</guid>
+        </item>
+        <item>
+            <title>20170823 Niagara Falls 2</title>
+            <link>slides/20170823 Niagara Falls 2.jpg</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170823 Niagara Falls 2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20170823 Niagara Falls 2.jpg" width="2383" height="600"/>
+            <jalbum:exif originalDate="Wed, 23 Aug 2017 12:01:34 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170823 Niagara Falls 2.jpg</guid>
+        </item>
+        <item>
+            <title>20170823 Niagara Falls</title>
+            <link>slides/20170823 Niagara Falls.jpg</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description>Projection: Cylindrical (1)
+FOV: 137 x 46
+Ev: 13.49</description>
+            <media:description type="html">Projection: Cylindrical (1)
+FOV: 137 x 46
+Ev: 13.49</media:description>
+            <media:thumbnail url="thumbs/20170823 Niagara Falls.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20170823 Niagara Falls.jpg" width="2766" height="600"/>
+            <jalbum:exif originalDate="Wed, 23 Aug 2017 16:59:17 +0100" cameraMake="Canon" cameraModel="Canon PowerShot A640"/>
+            <guid isPermaLink="false">slides/20170823 Niagara Falls.jpg</guid>
+        </item>
+        <item>
+            <title>20170812 Toronto Blue Jays</title>
+            <link>slides/20170812 Toronto Blue Jays.jpg</link>
+            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <description>Projection: Cylindrical (1)
+FOV: 130 x 71
+Ev: 7.40</description>
+            <media:description type="html">Projection: Cylindrical (1)
+FOV: 130 x 71
+Ev: 7.40</media:description>
+            <media:thumbnail url="thumbs/20170812 Toronto Blue Jays.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20170812 Toronto Blue Jays.jpg" width="1799" height="600"/>
+            <jalbum:exif originalDate="Sat, 12 Aug 2017 13:48:50 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20170812 Toronto Blue Jays.jpg</guid>
+        </item>
+    </channel>
+</rss>
