@@ -11,7 +11,7 @@
         <item>
             <title>20060804 colosseum</title>
             <link>slides/20060804 colosseum.JPG</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20060804 colosseum.JPG" width="140" height="100"/>
@@ -21,7 +21,7 @@
         <item>
             <title>20060805 stpeters</title>
             <link>slides/20060805 stpeters.JPG</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20060805 stpeters.JPG" width="140" height="100"/>
@@ -31,7 +31,7 @@
         <item>
             <title>20060804 another colosseum</title>
             <link>slides/20060804 another colosseum.JPG</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20060804 another colosseum.JPG" width="140" height="100"/>
@@ -41,7 +41,7 @@
         <item>
             <title>20140901 Lucca Ampitheatre</title>
             <link>slides/20140901 Lucca Ampitheatre.jpg</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description>Projection: Cylindrical (1)
 FOV: 360 x 74
 Ev: 11.88</description>
@@ -56,7 +56,7 @@ Ev: 11.88</media:description>
         <item>
             <title>Siena</title>
             <link>slides/Siena.jpg</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description>Projection: Cylindrical (1)
 FOV: 193 x 64
 Ev: 13.63</description>
@@ -71,7 +71,7 @@ Ev: 13.63</media:description>
         <item>
             <title>San Gimignano</title>
             <link>slides/San Gimignano.jpg</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/San Gimignano.jpg" width="140" height="100"/>
@@ -81,7 +81,7 @@ Ev: 13.63</media:description>
         <item>
             <title>Lucca from Torre Guinigi</title>
             <link>slides/Lucca from Torre Guinigi.jpg</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Lucca from Torre Guinigi.jpg" width="140" height="100"/>
@@ -91,7 +91,7 @@ Ev: 13.63</media:description>
         <item>
             <title>20160817 San Gimignano</title>
             <link>slides/20160817 San Gimignano.jpg</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description>Projection: Rectilinear (0)
 FOV: 78 x 28
 Ev: 12.46</description>
@@ -106,7 +106,7 @@ Ev: 12.46</media:description>
         <item>
             <title>20160817 San Gimignano(2)</title>
             <link>slides/20160817 San Gimignano(2).jpg</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description>User comments
 Projection: Rectilinear (0)
 FOV: 97 x 34
@@ -121,9 +121,9 @@ Ev: 14.42</media:description>
             <guid isPermaLink="false">slides/20160817 San Gimignano(2).jpg</guid>
         </item>
         <item>
-            <title>20160819_104709 - 20160819_104720</title>
-            <link>slides/20160819_104709 - 20160819_104720.jpg</link>
-            <pubDate>Sat, 21 Jul 2018 14:21:35 +0100</pubDate>
+            <title>20160819 San Gimignano again</title>
+            <link>slides/20160819 San Gimignano again.jpg</link>
+            <pubDate>Sun, 22 Jul 2018 11:40:55 +0100</pubDate>
             <description>User comments
 Projection: Cylindrical (1)
 FOV: 130 x 44
@@ -132,10 +132,10 @@ Ev: 14.21</description>
 Projection: Cylindrical (1)
 FOV: 130 x 44
 Ev: 14.21</media:description>
-            <media:thumbnail url="thumbs/20160819_104709 - 20160819_104720.jpg" width="140" height="100"/>
-            <media:content type="image/jpeg" url="slides/20160819_104709 - 20160819_104720.jpg" width="2297" height="600"/>
+            <media:thumbnail url="thumbs/20160819 San Gimignano again.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20160819 San Gimignano again.jpg" width="2297" height="600"/>
             <jalbum:exif originalDate="Fri, 19 Aug 2016 10:47:09 +0100" cameraMake="SAMSUNG" cameraModel="GT-I9195"/>
-            <guid isPermaLink="false">slides/20160819_104709 - 20160819_104720.jpg</guid>
+            <guid isPermaLink="false">slides/20160819 San Gimignano again.jpg</guid>
         </item>
     </channel>
 </rss>
