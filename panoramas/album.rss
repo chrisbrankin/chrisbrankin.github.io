@@ -10,7 +10,6 @@
         <jalbum:absolutePath></jalbum:absolutePath>
     	<jalbum:link rel="sub" href="Australia/album.rss" />   	
     	<jalbum:link rel="sub" href="Canada/album.rss" />   	
-    	<jalbum:link rel="sub" href="Florence/album.rss" />   	
     	<jalbum:link rel="sub" href="Italy/album.rss" />   	
     	<jalbum:link rel="sub" href="The Lake District/album.rss" />   	
     	<jalbum:link rel="sub" href="Others/album.rss" />   	
