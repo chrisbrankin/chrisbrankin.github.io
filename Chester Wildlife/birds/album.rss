@@ -9,9 +9,20 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
+            <title>20160313 Magpie</title>
+            <link>slides/20160313%20Magpie.JPG</link>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20160313%20Magpie.JPG" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/20160313%20Magpie.JPG" width="1155" height="780"/>
+            <jalbum:exif originalDate="Sun, 13 Mar 2016 11:46:47 +0000" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/20160313%20Magpie.JPG</guid>
+        </item>
+        <item>
             <title>20120705 blackbird</title>
             <link>slides/20120705%20blackbird.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20120705%20blackbird.jpg" width="160" height="121"/>
@@ -22,7 +33,7 @@
         <item>
             <title>20120712 robin </title>
             <link>slides/20120712%20robin%20.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20120712%20robin%20.jpg" width="160" height="120"/>
@@ -33,7 +44,7 @@
         <item>
             <title>20120803 House Sparrow</title>
             <link>slides/20120803%20House%20Sparrow.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20120803%20House%20Sparrow.jpg" width="160" height="121"/>
@@ -44,7 +55,7 @@
         <item>
             <title>20160123 heron</title>
             <link>slides/20160123%20heron.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160123%20heron.JPG" width="120" height="160"/>
@@ -55,7 +66,7 @@
         <item>
             <title>20160123 heron in flight</title>
             <link>slides/20160123%20heron%20in%20flight.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160123%20heron%20in%20flight.jpg" width="121" height="160"/>
@@ -66,7 +77,7 @@
         <item>
             <title>20160218 female blackbird</title>
             <link>slides/20160218%20female%20blackbird.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160218%20female%20blackbird.JPG" width="120" height="160"/>
@@ -77,7 +88,7 @@
         <item>
             <title>20160222 Great Tit</title>
             <link>slides/20160222%20Great%20Tit.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160222%20Great%20Tit.jpg" width="121" height="160"/>
@@ -87,7 +98,7 @@
         <item>
             <title>20160227 Blackcap female</title>
             <link>slides/20160227%20Blackcap%20female.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160227%20Blackcap%20female.jpg" width="160" height="121"/>
@@ -97,7 +108,7 @@
         <item>
             <title>20160307 Blue Tit</title>
             <link>slides/20160307%20Blue%20Tit.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160307%20Blue%20Tit.jpg" width="121" height="160"/>
@@ -107,7 +118,7 @@
         <item>
             <title>20160311 Blackcap</title>
             <link>slides/20160311%20Blackcap.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160311%20Blackcap.jpg" width="160" height="120"/>
@@ -118,7 +129,7 @@
         <item>
             <title>20160314 siskin</title>
             <link>slides/20160314%20siskin.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160314%20siskin.jpg" width="160" height="121"/>
@@ -128,7 +139,7 @@
         <item>
             <title>20160325 Goldfinch</title>
             <link>slides/20160325%20Goldfinch.jpg</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160325%20Goldfinch.jpg" width="160" height="121"/>
@@ -138,7 +149,7 @@
         <item>
             <title>20160408 Long-tailed tit</title>
             <link>slides/20160408%20Long-tailed%20tit.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160408%20Long-tailed%20tit.JPG" width="120" height="160"/>
@@ -149,7 +160,7 @@
         <item>
             <title>20160504 Coal Tit</title>
             <link>slides/20160504%20Coal%20Tit.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160504%20Coal%20Tit.JPG" width="160" height="120"/>
@@ -160,7 +171,7 @@
         <item>
             <title>20160405 Coal Tit</title>
             <link>slides/20160405%20Coal%20Tit.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160405%20Coal%20Tit.JPG" width="120" height="160"/>
@@ -171,7 +182,7 @@
         <item>
             <title>20160606 Greenfinch</title>
             <link>slides/20160606%20Greenfinch.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160606%20Greenfinch.JPG" width="160" height="121"/>
@@ -182,7 +193,7 @@
         <item>
             <title>20160608 Feeding Blue Tits</title>
             <link>slides/20160608%20Feeding%20Blue%20Tits.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160608%20Feeding%20Blue%20Tits.JPG" width="160" height="114"/>
@@ -193,7 +204,7 @@
         <item>
             <title>20160609 Starling</title>
             <link>slides/20160609%20Starling.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160609%20Starling.JPG" width="160" height="114"/>
@@ -204,7 +215,7 @@
         <item>
             <title>20160612 Jackdaw</title>
             <link>slides/20160612%20Jackdaw.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160612%20Jackdaw.JPG" width="160" height="116"/>
@@ -215,7 +226,7 @@
         <item>
             <title>20170105 Waxwing</title>
             <link>slides/20170105%20Waxwing.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20170105%20Waxwing.JPG" width="160" height="114"/>
@@ -226,7 +237,7 @@
         <item>
             <title>20170105 Waxwing flock</title>
             <link>slides/20170105%20Waxwing%20flock.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20170105%20Waxwing%20flock.JPG" width="160" height="114"/>
@@ -237,7 +248,7 @@
         <item>
             <title>20160315 Dunnock</title>
             <link>slides/20160315%20Dunnock.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20160315%20Dunnock.JPG" width="160" height="121"/>
@@ -248,13 +259,35 @@
         <item>
             <title>20170322 Chaffinch</title>
             <link>slides/20170322%20Chaffinch.JPG</link>
-            <pubDate>Fri, 06 Jul 2018 13:53:00 +0100</pubDate>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20170322%20Chaffinch.JPG" width="160" height="115"/>
             <media:content type="image/jpeg" url="slides/20170322%20Chaffinch.JPG" width="1078" height="780"/>
             <jalbum:exif originalDate="Wed, 22 Mar 2017 12:29:41 +0000" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
             <guid isPermaLink="false">slides/20170322%20Chaffinch.JPG</guid>
+        </item>
+        <item>
+            <title>20181011 Sparrowhawk</title>
+            <link>slides/20181011%20Sparrowhawk.JPG</link>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20181011%20Sparrowhawk.JPG" width="160" height="107"/>
+            <media:content type="image/jpeg" url="slides/20181011%20Sparrowhawk.JPG" width="1155" height="780"/>
+            <jalbum:exif originalDate="Thu, 11 Oct 2018 16:52:48 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/20181011%20Sparrowhawk.JPG</guid>
+        </item>
+        <item>
+            <title>20181208 Great Spotted Woodpecker</title>
+            <link>slides/20181208%20Great%20Spotted%20Woodpecker.JPG</link>
+            <pubDate>Wed, 12 Dec 2018 20:42:18 +0000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20181208%20Great%20Spotted%20Woodpecker.JPG" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20181208%20Great%20Spotted%20Woodpecker.JPG" width="1079" height="780"/>
+            <jalbum:exif originalDate="Sat, 08 Dec 2018 08:28:03 +0000" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/20181208%20Great%20Spotted%20Woodpecker.JPG</guid>
         </item>
     </channel>
 </rss>
