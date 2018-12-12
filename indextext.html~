@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin's homepage featuring links to his Astrophotograpy, Panorama and Cheshire Wildlife photos along with a link to Northgate Walking Football Club Facebook page">
+<title>Homepage of Chris Brankin</title>
+
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+background-color:#aaaaaa;
+}
+
+div.wrapper 
+{
+width:1000px;
+height:auto;
+margin:0 auto;
+background-color:#dddddd;
+}
+
+div.cell
+{
+display:inline-block;/* displays cells in rows and columns .. no per row depending on stated width*/
+width:492px;
+height:auto;
+box-sizing: border-box;/*makes padding part of width (and height)*/
+padding:0px 50px 10px;/* 0t 50s 25b*/
+font-style:italic;
+font-size:20px;
+background-color:#dddddd;
+}
+
+header
+{
+width:1000px;
+height:60px;
+font-size:40px;
+font-style:italic;
+box-sizing: border-box;
+padding:2px;
+}
+
+footer
+{
+width:1000px;
+height:30px;
+font-size:15px;
+font-style:italic;
+box-sizing: border-box;
+padding:2px;
+}
+
+div.hrule
+{
+width:1000px;
+height:1px;
+background-color:#777777;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<header>cjb's textpage</header>
+
+<div class="hrule"></div>
+
+<div class="cell"><UL><P><LI><STRONG><A href="http://deepskystacker.free.fr/english/index.html"><U>DeepSkyStacker</U></A></STRONG> has been used to stack digital images captured with an unmodded Canon 350D DSLR, while older negatives have been digitised with a film scanner.<LI>Webcam videos were captured with <STRONG><A HREF="http://www.pk3.org/Astro/index.htm?k3ccdtools.htm"><U>K3CCDtools</U></A></STRONG> and stacked in <STRONG><A HREF="http://www.astronomie.be/registax/"><U>Registax</U></A></STRONG>.<LI><STRONG>Photoshop Elements</STRONG> was used for post processing (cropping then levels and curves adjustments) and <A HREF="http://pixinsight.com/download/LE/index.html"><U><strong>PixInsightLE</strong></U></A> (now sadly discontinued) to remove gradients. <LI><STRONG><A HREF="http://www.prodigitalsoftware.com/Astronomy_Tools_For_Full_Version.html"><U>Noel's Actions</U></A></STRONG> was used mainly to remove banding. <LI>Finally the excellent <strong><A href="http://www.startrails.de"><U>startrails</u></a></strong> program was used for the startrails.</UL><br></div>
+
+
+
+
+
+<div class="hrule"></div>
+
+<footer>Chris Brankin : chrisbrankin@hotmail.com</footer>
+
+</div>
+</body>
+</html>
