@@ -11,7 +11,7 @@
         <item>
             <title>20070822 geneva</title>
             <link>slides/20070822 geneva.JPG</link>
-            <pubDate>Sat, 20 Jul 2019 18:05:40 +0100</pubDate>
+            <pubDate>Tue, 29 Oct 2019 15:03:42 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20070822 geneva.JPG" width="140" height="100"/>
@@ -21,7 +21,7 @@
         <item>
             <title>20100626 san sebastian</title>
             <link>slides/20100626 san sebastian.JPG</link>
-            <pubDate>Sat, 20 Jul 2019 18:05:40 +0100</pubDate>
+            <pubDate>Tue, 29 Oct 2019 15:03:42 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20100626 san sebastian.JPG" width="140" height="100"/>
@@ -31,7 +31,7 @@
         <item>
             <title>20100825 The Roodee Chester</title>
             <link>slides/20100825 The Roodee Chester.JPG</link>
-            <pubDate>Sat, 20 Jul 2019 18:05:40 +0100</pubDate>
+            <pubDate>Tue, 29 Oct 2019 15:03:42 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20100825 The Roodee Chester.JPG" width="140" height="100"/>
@@ -39,9 +39,39 @@
             <guid isPermaLink="false">slides/20100825 The Roodee Chester.JPG</guid>
         </item>
         <item>
+            <title>20191024_Seville</title>
+            <link>slides/20191024_Seville.jpg</link>
+            <pubDate>Tue, 29 Oct 2019 15:03:42 +0000</pubDate>
+            <description>Projection: Cylindrical (1)
+FOV: 114 x 68
+Ev: 15.09</description>
+            <media:description type="html">Projection: Cylindrical (1)
+FOV: 114 x 68
+Ev: 15.09</media:description>
+            <media:thumbnail url="thumbs/20191024_Seville.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20191024_Seville.jpg" width="1826" height="600"/>
+            <jalbum:exif originalDate="Thu, 24 Oct 2019 15:46:26 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20191024_Seville.jpg</guid>
+        </item>
+        <item>
+            <title>20191024 Seville</title>
+            <link>slides/20191024 Seville.jpg</link>
+            <pubDate>Tue, 29 Oct 2019 15:03:42 +0000</pubDate>
+            <description>Projection: Cylindrical (1)
+FOV: 129 x 46
+Ev: 13.85</description>
+            <media:description type="html">Projection: Cylindrical (1)
+FOV: 129 x 46
+Ev: 13.85</media:description>
+            <media:thumbnail url="thumbs/20191024 Seville.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/20191024 Seville.jpg" width="2288" height="600"/>
+            <jalbum:exif originalDate="Thu, 24 Oct 2019 15:43:04 +0100" cameraMake="samsung" cameraModel="SM-G920F"/>
+            <guid isPermaLink="false">slides/20191024 Seville.jpg</guid>
+        </item>
+        <item>
             <title>cern 2m bubble chamber photo</title>
             <link>slides/cern 2m bubble chamber photo.jpg</link>
-            <pubDate>Sat, 20 Jul 2019 18:05:40 +0100</pubDate>
+            <pubDate>Tue, 29 Oct 2019 15:03:42 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/cern 2m bubble chamber photo.jpg" width="140" height="100"/>
