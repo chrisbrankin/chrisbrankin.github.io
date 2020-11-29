@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Some 'virtual' Astronomy</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description>
+
+With some 'virtual' views at the telescope ..
+scroll down and click through the year ..
+to see astronomical observations  made during the covid lockdowns of 2020 ..
+from plane-free night skies, to a naked-eye comet .. 
+through to a wonderful display of planets.
+
+
+
+</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>11th April  .. startrails around the pole star</title>
+            <link>slides/20200411%20startrails.jpg</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>11th April and startrails around the pole star.
+Plane-free skies means no vapour trails to spoil the image.
+about 1 hours worth of 13s stacked exposures, 28mm lens, f/4, iso 800</description>
+            <media:description type="html">11th April and startrails around the pole star.
+Plane-free skies means no vapour trails to spoil the image.
+about 1 hours worth of 13s stacked exposures, 28mm lens, f/4, iso 800</media:description>
+            <media:thumbnail url="thumbs/20200411%20startrails.jpg" width="540" height="360"/>
+            <media:content type="image/jpeg" url="slides/20200411%20startrails.jpg" width="1080" height="720"/>
+            <guid isPermaLink="false">slides/20200411%20startrails.jpg</guid>
+        </item>
+        <item>
+            <title>VIDEO: 22nd May .. Mercury and Venus</title>
+            <link>20200522%20Mercury%20and%20Venus.mp4</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>22nd May and Mercury and Venus close together in the evening sky.
+Mobile phone clip through 25mm eyepiece on Skywatcher Evostar 90 telescope</description>
+            <media:description type="html">22nd May and Mercury and Venus close together in the evening sky.
+Mobile phone clip through 25mm eyepiece on Skywatcher Evostar 90 telescope</media:description>
+            <media:thumbnail url="thumbs/20200522%20Mercury%20and%20Venus.jpg" width="640" height="360"/>
+            <media:content  url="20200522%20Mercury%20and%20Venus.mp4" width="1280" height="720"/>
+            <jalbum:original url="20200522%20Mercury%20and%20Venus.mp4" width="1920" height="1080" fileSize="4758227"/>
+            <guid isPermaLink="false">slides/20200522%20Mercury%20and%20Venus.jpg</guid>
+        </item>
+        <item>
+            <title>VIDEO: 30th May .. a First Quarter Moon .. and a blackbird!</title>
+            <link>20200530%20First%20Quarter%20Moon%20and%20Blackbird.mp4</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>30th May and a First Quarter Moon with a blackbird singing along.
+Mobile phone clip through 25mm eyepiece on a Skywatcher Evostar 90 telescope.</description>
+            <media:description type="html">30th May and a First Quarter Moon with a blackbird singing along.
+Mobile phone clip through 25mm eyepiece on a Skywatcher Evostar 90 telescope.</media:description>
+            <media:thumbnail url="thumbs/20200530%20First%20Quarter%20Moon%20and%20Blackbird.jpg" width="640" height="360"/>
+            <media:content  url="20200530%20First%20Quarter%20Moon%20and%20Blackbird.mp4" width="1280" height="720"/>
+            <jalbum:original url="20200530%20First%20Quarter%20Moon%20and%20Blackbird.mp4" width="1920" height="1080" fileSize="2429471"/>
+            <guid isPermaLink="false">slides/20200530%20First%20Quarter%20Moon%20and%20Blackbird.jpg</guid>
+        </item>
+        <item>
+            <title>12th July .. Comet Neowise</title>
+            <link>slides/20200712%20%20comet%20Neowise.JPG</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>12th July .. Comet Neowise .. 135mm lens 2s exposure</description>
+            <media:description type="html">12th July .. Comet Neowise .. 135mm lens 2s exposure</media:description>
+            <media:thumbnail url="thumbs/20200712%20%20comet%20Neowise.JPG" width="504" height="360"/>
+            <media:content type="image/jpeg" url="slides/20200712%20%20comet%20Neowise.JPG" width="1008" height="720"/>
+            <jalbum:exif originalDate="Sun, 12 Jul 2020 02:01:29 +0100" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/20200712%20%20comet%20Neowise.JPG</guid>
+        </item>
+        <item>
+            <title>VIDEO: 12th July .. Saturn</title>
+            <link>20200712%20Saturn%20clip.mp4</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>12th July .. Saturn
+Mobile phone clip through 6mm eyepiece on an unguided 8" reflecting telescope.</description>
+            <media:description type="html">12th July .. Saturn
+Mobile phone clip through 6mm eyepiece on an unguided 8" reflecting telescope.</media:description>
+            <media:thumbnail url="thumbs/20200712%20Saturn%20clip.jpg" width="640" height="360"/>
+            <media:content  url="20200712%20Saturn%20clip.mp4" width="1280" height="720"/>
+            <jalbum:original url="20200712%20Saturn%20clip.mp4" width="1920" height="1080" fileSize="3983014"/>
+            <guid isPermaLink="false">slides/20200712%20Saturn%20clip.jpg</guid>
+        </item>
+        <item>
+            <title>12th July .. Saturn</title>
+            <link>slides/20200712%20Saturn.jpg</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>12th July .. Saturn
+Image from stacking frames of video clip.</description>
+            <media:description type="html">12th July .. Saturn
+Image from stacking frames of video clip.</media:description>
+            <media:thumbnail url="thumbs/20200712%20Saturn.jpg" width="448" height="317"/>
+            <media:content type="image/jpeg" url="slides/20200712%20Saturn.jpg" width="448" height="317"/>
+            <guid isPermaLink="false">slides/20200712%20Saturn.jpg</guid>
+        </item>
+        <item>
+            <title>VIDEO: 12th July .. Jupiter</title>
+            <link>20200712%20Jupiter%20clip.mp4</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>12th July .. Jupiter.
+Mobile phone clip through 6mm eyepiece on unguided 8" reflecting telescope.</description>
+            <media:description type="html">12th July .. Jupiter.
+Mobile phone clip through 6mm eyepiece on unguided 8" reflecting telescope.</media:description>
+            <media:thumbnail url="thumbs/20200712%20Jupiter%20clip.jpg" width="640" height="360"/>
+            <media:content  url="20200712%20Jupiter%20clip.mp4" width="1280" height="720"/>
+            <jalbum:original url="20200712%20Jupiter%20clip.mp4" width="1920" height="1080" fileSize="19286123"/>
+            <guid isPermaLink="false">slides/20200712%20Jupiter%20clip.jpg</guid>
+        </item>
+        <item>
+            <title>12th July .. Jupiter</title>
+            <link>slides/20200712%20Jupiter.jpg</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>12th July .. Jupiter
+Image from stacking frames of video clip.</description>
+            <media:description type="html">12th July .. Jupiter
+Image from stacking frames of video clip.</media:description>
+            <media:thumbnail url="thumbs/20200712%20Jupiter.jpg" width="448" height="321"/>
+            <media:content type="image/jpeg" url="slides/20200712%20Jupiter.jpg" width="448" height="321"/>
+            <guid isPermaLink="false">slides/20200712%20Jupiter.jpg</guid>
+        </item>
+        <item>
+            <title>VIDEO: On 12th July .. an overexposed Jupiter and (L-R) moons Callisto, Ganymede, Europa and Io</title>
+            <link>20200712%20Jupiter%20and%20Galilean%20Moons.mp4</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>On 12th July an overexposed Jupiter and (L-R) moons Callisto, Ganymede, Europa and Io.
+Mobile phone clip through 25mm eyepiece on an unguided 8" reflecting telescope.
+</description>
+            <media:description type="html">On 12th July an overexposed Jupiter and (L-R) moons Callisto, Ganymede, Europa and Io.
+Mobile phone clip through 25mm eyepiece on an unguided 8" reflecting telescope.
+</media:description>
+            <media:thumbnail url="thumbs/20200712%20Jupiter%20and%20Galilean%20Moons.jpg" width="640" height="360"/>
+            <media:content  url="20200712%20Jupiter%20and%20Galilean%20Moons.mp4" width="1280" height="720"/>
+            <jalbum:original url="20200712%20Jupiter%20and%20Galilean%20Moons.mp4" width="1920" height="1080" fileSize="1733724"/>
+            <guid isPermaLink="false">slides/20200712%20Jupiter%20and%20Galilean%20Moons.jpg</guid>
+        </item>
+        <item>
+            <title>On 12th July an overexposed Jupiter and (L-R) moons Callisto, Ganymede, Europa and Io</title>
+            <link>slides/20200712%20Galilean%20Moons.jpg</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>On 12th July an overexposed Jupiter and (L-R) moons Callisto, Ganymede, Europa and Io.
+Enhanced still from video clip.</description>
+            <media:description type="html">On 12th July an overexposed Jupiter and (L-R) moons Callisto, Ganymede, Europa and Io.
+Enhanced still from video clip.</media:description>
+            <media:thumbnail url="thumbs/20200712%20Galilean%20Moons.jpg" width="502" height="360"/>
+            <media:content type="image/jpeg" url="slides/20200712%20Galilean%20Moons.jpg" width="639" height="458"/>
+            <guid isPermaLink="false">slides/20200712%20Galilean%20Moons.jpg</guid>
+        </item>
+        <item>
+            <title>VIDEO: 14th October 2020 .. and Mars near opposition</title>
+            <link>20201014%20Mars%20close%20to%20opposition.mp4</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>14th October 2020 and Mars near opposition. 
+Mobile phone clip through 6mm eyepiece on an unguided 8" reflecting telescope.</description>
+            <media:description type="html">14th October 2020 and Mars near opposition. 
+Mobile phone clip through 6mm eyepiece on an unguided 8" reflecting telescope.</media:description>
+            <media:thumbnail url="thumbs/20201014%20Mars%20close%20to%20opposition.jpg" width="640" height="360"/>
+            <media:content  url="20201014%20Mars%20close%20to%20opposition.mp4" width="1280" height="720"/>
+            <jalbum:original url="20201014%20Mars%20close%20to%20opposition.mp4" width="1920" height="1080" fileSize="1486723"/>
+            <guid isPermaLink="false">slides/20201014%20Mars%20close%20to%20opposition.jpg</guid>
+        </item>
+        <item>
+            <title>On 14th October .. Mars close to opposition</title>
+            <link>slides/20201014%20Mars%20opposition.jpg</link>
+            <pubDate>Thu, 26 Nov 2020 14:42:19 +0000</pubDate>
+            <description>
+On 14th October Mars close to opposition. 
+Image from stacking frames of video clip.</description>
+            <media:description type="html">
+On 14th October Mars close to opposition. 
+Image from stacking frames of video clip.</media:description>
+            <media:thumbnail url="thumbs/20201014%20Mars%20opposition.jpg" width="480" height="344"/>
+            <media:content type="image/jpeg" url="slides/20201014%20Mars%20opposition.jpg" width="480" height="344"/>
+            <guid isPermaLink="false">slides/20201014%20Mars%20opposition.jpg</guid>
+        </item>
+    </channel>
+</rss>
