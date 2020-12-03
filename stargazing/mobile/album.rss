@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>mobile astro</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20200712 Saturn</title>
+            <link>slides/20200712%20Saturn.jpg</link>
+            <pubDate>Sun, 18 Oct 2020 14:48:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20200712%20Saturn.jpg" width="160" height="113"/>
+            <media:content type="image/jpeg" url="slides/20200712%20Saturn.jpg" width="478" height="347"/>
+            <guid isPermaLink="false">slides/20200712%20Saturn.jpg</guid>
+        </item>
+        <item>
+            <title>20200917 Mars</title>
+            <link>slides/20200917%20Mars.jpg</link>
+            <pubDate>Sun, 18 Oct 2020 14:48:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20200917%20Mars.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20200917%20Mars.jpg" width="478" height="349"/>
+            <guid isPermaLink="false">slides/20200917%20Mars.jpg</guid>
+        </item>
+        <item>
+            <title>20200712 Galilean Moons</title>
+            <link>slides/20200712%20Galilean%20Moons.jpg</link>
+            <pubDate>Sun, 18 Oct 2020 14:48:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20200712%20Galilean%20Moons.jpg" width="160" height="90"/>
+            <media:content type="image/jpeg" url="slides/20200712%20Galilean%20Moons.jpg" width="1363" height="780"/>
+            <guid isPermaLink="false">slides/20200712%20Galilean%20Moons.jpg</guid>
+        </item>
+        <item>
+            <title>20200712 Jupiter</title>
+            <link>slides/20200712%20Jupiter.jpg</link>
+            <pubDate>Sun, 18 Oct 2020 14:48:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20200712%20Jupiter.jpg" width="160" height="115"/>
+            <media:content type="image/jpeg" url="slides/20200712%20Jupiter.jpg" width="478" height="351"/>
+            <guid isPermaLink="false">slides/20200712%20Jupiter.jpg</guid>
+        </item>
+        <item>
+            <title>20201014 Mars at opposition</title>
+            <link>slides/20201014%20Mars%20at%20opposition.jpg</link>
+            <pubDate>Sun, 18 Oct 2020 14:48:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20201014%20Mars%20at%20opposition.jpg" width="160" height="114"/>
+            <media:content type="image/jpeg" url="slides/20201014%20Mars%20at%20opposition.jpg" width="480" height="351"/>
+            <guid isPermaLink="false">slides/20201014%20Mars%20at%20opposition.jpg</guid>
+        </item>
+    </channel>
+</rss>
