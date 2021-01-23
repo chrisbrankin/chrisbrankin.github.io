@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+   <style>
+body {
+  background-image: url('back.png');
+  opacity: 0.10;
+}
+</style> 
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="astro2020.pdf">example</a>.</p>
+  </body>
+</html>

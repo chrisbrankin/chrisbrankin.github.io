@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Astronomy Winter Skies Skymaps Astrophotography">
+<title>Early Evening Winter Skies</title>
+
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+background-color:#aaaaaa;
+}
+
+div.wrapper 
+{
+width:1080px;
+height:760px;
+margin:0 auto;
+background-color:#dddddd;
+}
+
+div.cell
+{
+display:inline-block;/* displays cells in rows and columns .. no per row depending on stated width*/
+width:1080px;
+height:678px;
+box-sizing: border-box;/*makes padding part of width (and height)*/
+padding:0px 50px 10px;/* 0t 50s 25b*/
+font-style:italic;
+font-size:20px;
+background-color:#dddddd;
+}
+
+header
+{
+width:1080px;
+height:50px;
+font-size:30px;
+font-style:italic;
+box-sizing: border-box;
+padding:2px;
+}
+
+footer
+{
+width:1080px;
+height:30px;
+font-size:15px;
+font-style:italic;
+box-sizing: border-box;
+padding:2px;
+}
+
+div.hrule
+{
+width:1080px;
+height:1px;
+background-color:#777777;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<header style="text-align:center">The early evening Winter skies</header>
+
+
+<div class="cell"><p>Some basic observing of The Moon, the Planets and The Constellations during the early evenings of the Winter months.</p>
+<p> Clearly all three can be observed with the NAKED EYE but BINOCULARS will show craters on The Moon and The Galilean Moons of Jupiter .. <br> .. while observing The Moon through a SMALL TELESCOPE will knock your socks off as will viewing the rings of Saturn and the occasional double star. </p>
+<p><a href="feb 2021.pdf">February 2021</a></p>
+
+
+
+</div>
+
+
+
+
+
+<div class="hrule"></div>
+
+<footer>Chris Brankin : chrisbrankin@hotmail.com</footer>
+
+</div>
+</body>
+</html>
