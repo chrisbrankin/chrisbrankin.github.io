@@ -23,9 +23,9 @@ a:visited {color:white;}
 
 div.wrapper 
 {
-width:1000px;
-height:600px;
-margin:0 auto;
+max-width:960px;
+height:auto;
+margin:auto;
 background-color:#222222;
 }
 
