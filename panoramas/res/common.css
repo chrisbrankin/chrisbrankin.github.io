@@ -524,40 +524,6 @@ video, audio {
 	-ms-filter:"progid:DXImageTransform.Microsoft.Gradient(GradientType=0,startColorstr=#FF1177aa,EndColorStr=#FF006699)";
 }
 
-/******************************************* Cookie policy */
-
-#cookiepolicy {
-	position: absolute;
-	position: fixed;
-	display: none;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	padding: 0.5em;
-	background-color: rgba(0,0,0,0.7);
-	font-size: 0.85rem;
-	cursor: pointer;
-	z-index: 999999;
-}
-
-#cookiepolicy p {
-	margin: 0;
-	color: #ccc;
-	text-align: center;
-}
-
-#cookiepolicy p a {
-	margin: 0 0.25em;
-	color: #0f0;
-}
-
-#cookiepolicy p a.btn {
-	color: #fff;
-	background-color: #0c0;
-	padding: 0.2em 0.4em;
-	border-radius: 3px;
-}
-
 /******************************************* Search results window */
 
 .searchresults > form {
