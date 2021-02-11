@@ -10,8 +10,8 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>20060804 colosseum</title>
-            <link>slides/20060804 colosseum.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20060804 colosseum.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20060804 colosseum.JPG" width="140" height="100"/>
@@ -20,8 +20,8 @@
         </item>
         <item>
             <title>20060805 stpeters</title>
-            <link>slides/20060805 stpeters.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20060805 stpeters.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20060805 stpeters.JPG" width="140" height="100"/>
@@ -30,8 +30,8 @@
         </item>
         <item>
             <title>20060804 another colosseum</title>
-            <link>slides/20060804 another colosseum.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20060804 another colosseum.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20060804 another colosseum.JPG" width="140" height="100"/>
@@ -40,8 +40,8 @@
         </item>
         <item>
             <title>20140901 Lucca Ampitheatre</title>
-            <link>slides/20140901 Lucca Ampitheatre.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20140901 Lucca Ampitheatre.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description>Projection: Cylindrical (1)
 FOV: 360 x 74
 Ev: 11.88</description>
@@ -55,8 +55,8 @@ Ev: 11.88</media:description>
         </item>
         <item>
             <title>20160817 San Gimignano</title>
-            <link>slides/20160817 San Gimignano.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20160817 San Gimignano.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description>Projection: Rectilinear (0)
 FOV: 78 x 28
 Ev: 12.46</description>
@@ -70,8 +70,8 @@ Ev: 12.46</media:description>
         </item>
         <item>
             <title>20160817 San Gimignano(2)</title>
-            <link>slides/20160817 San Gimignano(2).jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20160817 San Gimignano(2).html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description>User comments
 Projection: Rectilinear (0)
 FOV: 97 x 34
@@ -82,13 +82,13 @@ FOV: 97 x 34
 Ev: 14.42</media:description>
             <media:thumbnail url="thumbs/20160817 San Gimignano(2).jpg" width="140" height="100"/>
             <media:content type="image/jpeg" url="slides/20160817 San Gimignano(2).jpg" width="2513" height="600"/>
-            <jalbum:exif originalDate="Wed, 17 Aug 2016 12:16:58 +0100" cameraMake="SAMSUNG" cameraModel="GT-I9195"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2016 12:46:04 +0100" cameraMake="SAMSUNG" cameraModel="GT-I9195"/>
             <guid isPermaLink="false">slides/20160817 San Gimignano(2).jpg</guid>
         </item>
         <item>
             <title>20160819 San Gimignano again</title>
-            <link>slides/20160819 San Gimignano again.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20160819 San Gimignano again.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description>User comments
 Projection: Cylindrical (1)
 FOV: 130 x 44
@@ -104,8 +104,8 @@ Ev: 14.21</media:description>
         </item>
         <item>
             <title>Florence skyline</title>
-            <link>slides/Florence skyline.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Florence skyline.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Florence skyline.JPG" width="140" height="100"/>
@@ -114,8 +114,8 @@ Ev: 14.21</media:description>
         </item>
         <item>
             <title>20180816 Castellina in Chianti</title>
-            <link>slides/20180816 Castellina in Chianti.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20180816 Castellina in Chianti.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20180816 Castellina in Chianti.jpg" width="140" height="100"/>
@@ -125,8 +125,8 @@ Ev: 14.21</media:description>
         </item>
         <item>
             <title>20180815 Looking NW from Torre Grossa San Gimignano</title>
-            <link>slides/20180815 Looking NW from Torre Grossa San Gimignano.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20180815 Looking NW from Torre Grossa San Gimignano.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description>Projection: Cylindrical (1)
 FOV: 221 x 68
 Ev: 13.77</description>
@@ -140,8 +140,8 @@ Ev: 13.77</media:description>
         </item>
         <item>
             <title>20180815 Looking South from Torre Grossa San Gimignano</title>
-            <link>slides/20180815 Looking South from Torre Grossa San Gimignano.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/20180815 Looking South from Torre Grossa San Gimignano.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description>Projection: Cylindrical (1)
 FOV: 129 x 60
 Ev: 13.59</description>
@@ -155,8 +155,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>Florence wider skyline</title>
-            <link>slides/Florence wider skyline.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Florence wider skyline.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Florence wider skyline.JPG" width="140" height="100"/>
@@ -165,8 +165,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>Lucca from Torre Guinigi</title>
-            <link>slides/Lucca from Torre Guinigi.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Lucca from Torre Guinigi.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Lucca from Torre Guinigi.jpg" width="140" height="100"/>
@@ -175,8 +175,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>On the Ponte Vecchio</title>
-            <link>slides/On the Ponte Vecchio.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/On the Ponte Vecchio.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/On the Ponte Vecchio.JPG" width="140" height="100"/>
@@ -185,8 +185,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>Ponte  Vecchio and the Uffizi</title>
-            <link>slides/Ponte  Vecchio and the Uffizi.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Ponte  Vecchio and the Uffizi.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Ponte  Vecchio and the Uffizi.JPG" width="140" height="100"/>
@@ -195,8 +195,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>Ponte Vecchio at night</title>
-            <link>slides/Ponte Vecchio at night.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Ponte Vecchio at night.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Ponte Vecchio at night.JPG" width="140" height="100"/>
@@ -205,8 +205,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>Ponte Vecchio from the Uffizi</title>
-            <link>slides/Ponte Vecchio from the Uffizi.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Ponte Vecchio from the Uffizi.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Ponte Vecchio from the Uffizi.JPG" width="140" height="100"/>
@@ -215,8 +215,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>Ponte Vecchio</title>
-            <link>slides/Ponte Vecchio.JPG</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Ponte Vecchio.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Ponte Vecchio.JPG" width="140" height="100"/>
@@ -225,8 +225,8 @@ Ev: 13.59</media:description>
         </item>
         <item>
             <title>Siena</title>
-            <link>slides/Siena.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/Siena.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description>Projection: Cylindrical (1)
 FOV: 193 x 64
 Ev: 13.63</description>
@@ -240,8 +240,8 @@ Ev: 13.63</media:description>
         </item>
         <item>
             <title>San Gimignano</title>
-            <link>slides/San Gimignano.jpg</link>
-            <pubDate>Mon, 08 Feb 2021 14:52:45 +0000</pubDate>
+            <link>slides/San Gimignano.html</link>
+            <pubDate>Thu, 11 Feb 2021 17:15:40 +0000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/San Gimignano.jpg" width="140" height="100"/>
