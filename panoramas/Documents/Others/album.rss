@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Others</title>
+   	<link>../..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>folderimage</title>
+            <link>slides/folderimage.html</link>
+            <pubDate>Fri, 12 Feb 2021 15:33:21 +0000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/folderimage.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/folderimage.jpg" width="900" height="240"/>
+            <guid isPermaLink="false">slides/folderimage.jpg</guid>
+        </item>
+        <item>
+            <title>folderthumb</title>
+            <link>slides/folderthumb.html</link>
+            <pubDate>Fri, 12 Feb 2021 15:33:21 +0000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/folderthumb.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/folderthumb.jpg" width="600" height="145"/>
+            <guid isPermaLink="false">slides/folderthumb.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -13,6 +13,7 @@
     	<jalbum:link rel="sub" href="Italy/album.rss" />   	
     	<jalbum:link rel="sub" href="The Lake District/album.rss" />   	
     	<jalbum:link rel="sub" href="Others/album.rss" />   	
+    	<jalbum:link rel="sub" href="Documents/album.rss" />   	
         
     </channel>
 </rss>

@@ -1626,8 +1626,8 @@ a.control:hover {
 	line-height:96px;
 	overflow:hidden;
 	text-align:center;
-	padding:3px;
-	-moz-border-radius:4px; border-radius:4px;
+	padding:3px 3px 3px 3px;
+	-moz-border-top-left-radius:4px; -moz-border-top-right-radius:4px; border-top-left-radius:4px; border-top-right-radius:4px;
 	transition:background-color 250ms linear;
 	-webkit-transition:background-color 250ms linear;
 	-moz-transition:background-color 250ms linear;
