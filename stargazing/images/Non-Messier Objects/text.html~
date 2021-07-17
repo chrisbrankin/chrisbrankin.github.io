@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-color:#000000;
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'info'
+  'details'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.item2 { 
+grid-area: info; 
+background-color: #222222;
+  text-align: left;
+  padding:18px;
+  font-size: 20px;
+  }
+  
+.item3 {
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+		<div class="item1">Camera, lens and image details</div>
+		
+  		<div class="item2"><p>Images captured with an unmodded Canon 350d on a mini-EQ mount.
+<p>The following lenses have been used:<br> a Hanimex f6.3 400mm and a range of Pentax SMC Takumar lenses (300mm, 135mm and 50mm).</div>
+
+  		<div class="item3"><p>
+
+NGC 869 and NGC 884 The Double Cluster (135 mm) in Perseus - 20080304 - 22x30s images at ISO800 - 135mm lens<br>
+NGC 869 and NGC 884 The Double Cluster (300 mm) in Perseus - 20081024 - 27x30s images at ISO800 - 300mm SMC Takumar lens<br>
+NGC 2024 The Flame and B66 The Horsehead Nebulae - 20081226 - 69x30s images at ISO800 - 300mm Super Takumar lens and CLS filter<br>
+NGC 3372 Eta Carina.jpg=NGC3372 Eta Carina - 20110222 - 20x10s images at ISO400 - SMC 50mm f2.8 lens - 350D on fixed tripod<br>
+'Pointers', Coalsack and Southern Cross - 20110222 - 7x10s images at ISO400 - SMC 50mm f2.8 lens - 350D on fixed tripod<br>
+NGC 7000 The North American Nebula in Cygnus star field - 19960812 - 120s kodacolor gold 400 - camera on barn-door mount 58mm lens<br>
+
+
+		</div>  
+		
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
+
+</body>
+</html>

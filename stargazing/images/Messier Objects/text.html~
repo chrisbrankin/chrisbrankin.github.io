@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-color:#000000;
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'details'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+
+  
+.item3 {
+grid-area:details;
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+	<div class="item1">Image details:<p></div>
+
+  		<div class="item3"><p>
+M1 The Crab Nebula - 											20081218 - 46X30s images at ISO400 - 300mm SMC Takumar lens<br>
+M13 globular cluster in Hercules - 							20070508 - 34X30s images at ISO800 - 400mm lens<br>
+M27 The Dumbbell Nebula - 										20070729 - 35x30s images at ISO800 - 400mm lens<br>
+M31 The Andromeda Galaxy - 									20081028 - 30x30s images at ISO800 - SMC Takumar 300mm lens<br>
+M33 The Pinwheel Galaxy - 										20081030 - 39x30s images at ISO800 - SMC Takumar 300mm lens<br>
+M35 Open Cluster in Gemini - 									20120126 - 32 x 30s images at ISO1600 - 135mm SMC takumar lens with CLS filter<br>
+Auriga with M36, M37 and M38 and Mars! - 					20080211 - 29x30s images at ISO800 - 50mm lens<br>
+M42 The Orion Nebula - 											20070114 - 26x30s images at ISO800 - 400mm lens<br>
+M44 The Beehive Cluster - 										20080304 - 40x30s images at ISO800 - 135mm lens<br>
+M45 The Pleiades - 												20081228 - 87X30s images at ISO800 - 300mm SMC Takumar lens<br>
+M45 The Pleiades - 												20071210 - 56x30s images at ISO800 - 400mm lens<br>
+M51 The Whirlpool Galaxy - 									20070315 - 28x30s images at ISO800 - 400mm lens<br>
+M57 The Ring Nebula - 											20070606 - 24x30s images at ISO800 - 400mm lens<br>
+M65, M66 and NGC3628 The Leo Triplet - 					20080328 - 31x30s images at ISO800 - 400mm lens<br>
+M76 The Little Dumbbell Nebula - 							20081028 - 12x30s images at ISO800 - SMC Takumar 300mm lens<br>
+M81 and M82 - 														20080226 - 42x30s images at ISO800 - 400mm lens<br>
+M101 (and NGC5422, NGC5473, NGC5485 and NGC 5474) - 	20070418 - 56x30s images at ISO800 - 400mm lens<br>
+Orion Nebulae - 													20120123 - 89 x 45s frames  ISO 800 - 135mm SMC Takumar lens with CLS filter<br>
+</div>  
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
+
+</body>
+</html>

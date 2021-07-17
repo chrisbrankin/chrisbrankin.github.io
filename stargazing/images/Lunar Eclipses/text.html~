@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-color:#000000;
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'details'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+
+  
+.item3 {
+grid-area:details;
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+	<div class="item1">Image details:<p></div>
+
+  		<div class="item3"><p>
+  		
+  		20150928 Total phase exposure 8s at 10minute intervals. ISO 400 50mm lens f5.6.<br>
+20070303 Total Lunar Eclipse taken about mid-eclipse 23:28pm - canon 350d at prime focus of 200mm newtonian - 0.8s at ISO800<br>
+19960927 Total Lunar Eclipse - September 1996 - fixed camera 135mm lens (X2) - ~2-5s agfacolor 200 - (+Saturn)<br>
+19960403 Total Lunar Eclipse - April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400<br>
+
+19960403 Total Lunar Eclipse - April 1996 - prime focus 200mm newtonian - 1/250s fujisensia 400	<br>
+
+
+19960403 Total Lunar Eclipse - April 1996 - prime focus 200mm newtonian - ~4s fujisensia 400<br>
+
+19960403 Total Lunar Eclipse - April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400<br>
+
+
+</div>  
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
+
+</body>
+</html>

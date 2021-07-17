@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-color:#000000;
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'details'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+
+  
+.item3 {
+grid-area:details;
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+	<div class="item1">Image details:<p></div>
+
+  		<div class="item3"><p>
+
+
+Perseus + Cassiopeia 20201010 - 28mm f/4 10s ISO 1600 - 5 stacked frames<br>
+
+
+20201122 Taurus and Pleiades  ..  12  x 10s stacked frames ISO 1600 28mm lens f/4<br>
+
+20201122 Orion  ..  12  x 10s stacked frames ISO 1600 28mm lens f/4<br>
+Square of Pegasus - 20201010 - 28mm f/4 10s ISO 1600 - 5 stacked frames<br>
+Cassiopeia - 20201010 - 28mm f/4 10s ISO 1600 - 9 stacked frames<br>
+Leo - 20200420 - 28mm f/4 10s ISO 1600 - 25 stacked frames<br>
+
+Ursa Major - 20200424 - 28mm f/4 10s ISO 1600 - 41 stacked frames<br>
+Cygnus and Lyra - 20201010 - 28mm f/4 10s ISO 1600 - 3 stacked frames<br>
+
+Gemini 20210106 28mm lens 10s ISO1600 10 stacked frames<br>
+
+</div>  
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
+
+</body>
+</html>

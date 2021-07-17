@@ -3,115 +3,91 @@
 <head>
 
 <meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
 
-<title>Textpage of Chris Brankin</title>
-
+<title>cjb's astrophotography</title>
 <style type="text/css">
 
 body
 
 {
 font-family:sans-serif;
-color:white;
+font-style:italic;
+color: white;/*default text colour*/
 background-color:#000000;
 }
 
-a:link
+a:link {color:white;}
+a:visited {color:white;}
+ 
 
-{
-color:white;
-}
-
-a:visited
-
-{
-color:white;
-}
-
-div.wrapper 
-{
-width:1000px;
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'info'
+  'details'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
 height:auto;
-margin:0 auto;
-background-color:#000000;
+margin:auto;
 }
 
-div.cell
-{
-display:inline-block;/* displays cells in rows and columns .. no per row depending on stated width*/
-width:1000px;
-height:auto;
-box-sizing: border-box;/*makes padding part of width (and height)*/
-padding:0px 50px 10px;/* 0t 50s 25b*/
-font-style:italic;
-font-size:20px;
-background-color:#000000;
-line-height:200%;
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
 }
 
-header
-{
-width:1000px;
-height:60px;
-font-size:40px;
-font-style:italic;
-box-sizing: border-box;
-padding:2px;
+.item2 { 
+grid-area: info; 
+background-color: #222222;
+  text-align: left;
+  padding:18px;
+  font-size: 20px;
+  }
+  
+.item3 {
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
 }
 
-footer
-{
-width:1000px;
-height:30px;
-font-size:15px;
-font-style:italic;
-box-sizing: border-box;
-padding:2px;
-text-align:center;
-}
-
-div.hrule
-{
-width:1000px;
-height:1px;
-background-color:#777777;
-}
-
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
 
 </style>
 </head>
 
 <body>
 
-<div class="wrapper">
 
-<header>Image processing software details</header>
+	<div class="cjbgrid">
+	
+		<div class="item1">Camera and lens details</div>
+		
+  		<div class="item2"><p>Images captured with an unmodded Canon 350d on a mini-EQ mount.
+<p>The following lenses have been used:<br> a Hanimex f6.3 400mm and a range of Pentax SMC Takumar lenses (300mm, 135mm and 50mm).</div>
 
-<div class="hrule"></div>
+  	
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
 
-<div class="cell"> <br>Original processing done in <strong>Windows</strong> where <strong><a href="http://deepskystacker.free.fr/english/index.html">DeepSkyStacker</strong></a> has been used to stack digital images captured with an unmodded Canon 350D DSLR, while older negatives have been digitised with a film scanner.
-<br>Webcam videos were captured with <strong><a href="http://www.pk3.org/Astro/index.htm?k3ccdtools.htm">K3CCDtools</a></strong> and stacked in <strong><a href="http://www.astronomie.be/registax/">Registax</a></strong>.
-<br><strong>Photoshop Elements</strong> was used for post processing (cropping then levels and curves adjustments) and <strong>PixInsightLE</strong> (now sadly discontinued) to remove gradients. 
-<br><a href="http://www.prodigitalsoftware.com/Astronomy_Tools_For_Full_Version.html"><strong>Noel's Actions</strong></a> was used mainly to remove banding. 
-<br>Finally the excellent <a href="http://www.startrails.de"><strong>startrails</strong></a> program was used for the startrails.
-<p><p> However moving over to <strong>Linux/Ubuntu</strong> have found that
-<br><a href="https://www.gimp.org/"><strong>GIMP</strong></a> can replace Photoshop and
-<br><a href="https://free-astro.org/index.php/Siril"> <strong>SIRIL</strong></a> does a great job replacing DeepSkyStacker AND Registax AND PixInsightLE.
-<br> <a href="http://arnholm.org/astro/software/wxAstroCapture/"> <strong>wxAstroCapture</strong></a> could be used to replace K3CCDtools and
-<br> <a href="https://sites.google.com/site/astropipp/"> <strong>PIPP</strong></a> can be used to convert <strong>avi/mp4</strong> video clips to <strong>ser</strong> files ready for processing by <strong>SIRIL</strong>.
-<br> There is a <a href="https://github.com/berrange/gimp-startrail-compositor"> <strong>Gimp Plugin</strong></a> to do startrail stacking.
-
-<p> <a href="index.html">BACK</a>
-
-<br></div>
-
-
-
-
-<div class="hrule"></div>
-
-<footer><br>Email : <a href="mailto: chrisbrankin@hotmail.com">chrisbrankin@hotmail.com</a> &emsp; &emsp; &emsp; Website: <a href="https://chrisbrankin.github.io/">https://chrisbrankin.github.io</a></footer>
-
-</div>
 </body>
 </html>

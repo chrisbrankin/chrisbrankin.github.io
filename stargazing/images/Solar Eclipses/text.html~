@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-color:#000000;
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'details'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+
+  
+.item3 {
+grid-area:details;
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+	<div class="item1">Image details:<p></div>
+
+  		<div class="item3"><p>
+19961012 Partial Solar Eclipse - October 1996 - ~1/8s agfacolor 200<br>
+19961012 Partial Solar Eclipse - October 1996 - ~1/8s agfacolor 200<br>
+19961012 Partial Solar Eclipse - October 1996 - ~1/8s agfacolor 200<br>
+19990811 Total Solar Eclipse - Penzance before and during<br>
+20080801 Partial Solar Eclipse taken just about mid-eclipse at 09:16:36 BST 20080801 - canon 350d and 400mm Hanimex lens - 1/200s at ISO800<br>
+20080801 Partial Solar Eclipse taken just after first contact at 08:36:41 BST 20080801 - canon 350d and 400mm Hanimex lens - 1/200s at ISO800<br>
+20090722 Total Solar Eclipse -  ISO100 300mm lens canon 350D<br>
+20090722 Total Solar Eclipse -  ISO100 300mm lens canon 350D<br>
+20090722 Total Solar Eclipse - 1/4s ISO100 Pentax SMC Takumar 300mm lens on Canon 350D<br>
+20150320 Chester mid partial eclipse  1/4000s iso 100 300mm lens no sun filter<br>
+20150320 Chester partial eclipse first contact 1/20s iso 100 300mm lens sun filter<br>
+20150320 Chester mid partial eclipse 1/2s iso 100 300mm lens sun filter<br>
+20150320 Chester partial eclipse 1/15s iso 100 300mm lens sun filter<br>
+20170821 Partial Solar Eclipse - Toronto<br>
+
+<p>Observing details of two total solar eclipses:<p>
+
+
+Total Eclipse - Penzance - August 11 1999<p>
+I arrived in Penzance at about 7.15am on the morning of the eclipse. <br>
+This after a 12 hour train journey which had started at Crewe the previous evening and which seemed to call at all stations to Penzance via Ealing Broadway! <br>
+No matter, the Sun was shining (just) and by 8.00am I was on the beach and I had set up my camera and taken a few practise shots. <br>
+That was the last I saw of the Sun that day! Dark clouds drifted in from the west and by 10.00am it had begun to rain. <br>
+This continued on and off until a few minutes before totality. <br>
+As totality approached it got very dark, the darkness presumably enhanced by the cloud cover. 
+<br>Street lights came on, flashlights went off and the front at Penzance reminded me of Blackpool illuminations on a cold, wet night. <br>
+The seagulls flocked together screeching and to my mind seemed to be heading out to sea. It was like midnight, the only light that remained was a strange eerie yellow glow on the horizon.<br> 
+People looked about bemused. Then all of a sudden night turned into day. As someone remarked, it was as if a dimmer switch had been turned on. It seemed to me a much more remarkable change in light level than at the beginning of totality, more clearly defined. 
+<br>And that was that! Another 12 hour train journey to look forward to - but not before popping into a local - to watch the recorded highlights on TV.
+<p>
+Total Eclipse - Wuzhen (nr Shanghai), China - July 22 2009<p>
+
+The total phase of the eclipse was visible only due to an amazing piece of good fortune. <br>
+The hour leading up to totality had begun with skies overcast and a thin drizzle in the air and little hope of observing anything. <br>
+Not wishing to be caught out in the seemingly unlikely event of the clouds lifting I set up my camera and put a plastic bag over the top. Thank goodness I did. <br>
+Suddenly a small patch of pale blue sky appeared and was heading towards where the Sun ought to be. <br>
+Then a few minutes before totality the nearly eclipsed Sun appeared behind this hazy patch. <br>
+For the next few minutes until near the end of totality the eclipsed Sun was visible through varying amounts of hazy cloud sometimes totally obscured.<br>
+ After totality the clouds thickened again and the Sun disappeared. <br>
+ Getting exposures right in these conditions was pot-luck but at least I managed one shot of totality. 
+</div>  
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
+
+</body>
+</html>

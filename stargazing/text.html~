@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-image:url(background.jpg);
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'info'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:960px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.item2 { 
+grid-area: info; 
+background-color: #222222;
+  text-align: left;
+  padding:20px;
+  font-size: 15px;
+  }
+  
+
+
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+  
+
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+  		<div class="item1">some background information</div>
+  		<div class="item2"><p>
+<u>Image processing software details</u>:<p> 
+Original processing done in Windows where DeepSkyStacker has been used to stack digital images captured with an unmodded Canon 350D DSLR, while older negatives have been digitised with a film scanner.<br> 
+Webcam videos were captured with K3CCDtools and stacked in Registax.<br>
+Photoshop Elements was used for post processing (cropping then levels and curves adjustments) and PixInsightLE (now sadly discontinued) to remove gradients. <br>
+Noel's Actions was used mainly to remove banding. <br>
+Finally the excellent startrails program was used for the startrails. <p>
+However moving over to Linux/Ubuntu have found that <br>
+GIMP can replace Photoshop and <br>
+SIRIL does a great job replacing DeepSkyStacker AND Registax AND PixInsightLE. <br>
+wxAstroCapture could be used to replace K3CCDtools and <br>
+PIPP can be used to convert avi/mp4 video clips to ser files ready for processing by SIRIL. <br>
+There is a Gimp Plugin to do startrail stacking. <p>
+
+<u>Camera and lens details</u>:<p>
+Images captured with an unmodded Canon 350d on a mini-EQ mount. <br>
+The following lenses have been used:<br>
+
+a Hanimex f6.3 400mm and a range of Pentax SMC Takumar lenses (300mm, 135mm and 50mm).<p>
+
+<u>Video Capture method</u>:<p>
+
+Video clips of the planets were captured using a Toucam and X2 Barlow on the Dobsonian mounted 200mm reflector. <br>
+Focusing, exposure adjustment and actual capture all done in repeated steps each time using the few seconds available before the image drifts off the laptop screen! <br>
+Hence only a few frames available for stacking. <p>
+
+
+<u>Astrophotography with a mobile phone</u>:<p> 
+A cheap adapter can be used to connect a mobile phone to a telescopic eyepiece. <br>
+This allows video clips to be captured through the telescope. <br>
+While the clips are pretty basic, stacking software can be used to stack the individual frames to produce some nice Moon and planetary images. <br>
+The adapter is basically a piece of plastic with a hole in. The phone can be clipped onto one side and slid into place so that the lens looks through the hole, while the eyepiece is clipped in on the other side opposite the hole (a bit of PVC tape around the eyepiece barrel gives the adapter a good grip). 
+With autofocus disabled the mobile camera is manually set to focus at infinity. <br>
+With the phone and eyepiece then in place on the telescope and the telescope pointing at an object of interest the focus is then fine tuned on the mobile screen using the telescope focusing control. 
+This is afocal astrophotography. <br>
+(Obviously image brightness can also be adjusted by altering the relevant camera settings.) <p>
+
+<u>Sketches</u>:
+
+Not having an equatorial mount for the 8" reflector it is difficult to photo or video deep-sky objects.<br><br> 
+Sketches are an alternative and were originally drawn as a later check that the target object had been found. 
+No filters were used to make the sketches which are all at about mag. x50 <br>
+  		<div class="item4"><a href="index.html">back</a></div>
+  		
+  	</div>
+
+</body>
+</html>

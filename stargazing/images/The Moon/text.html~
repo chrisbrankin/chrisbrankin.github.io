@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-color:#000000;
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'details'
+  'footer';
+  grid-gap: 1px;
+  background-color: white; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+
+  
+.item3 {
+grid-area:details;
+background-color: #222222;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.item4 { 
+grid-area: footer; 
+background-color: #222222;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+	<div class="item1">Image details:<p></div>
+
+  		<div class="item3"><p>
+  		20090329 - Crescent Moon - March 29th 2009 - Canon 350D at prime focus of 200mm newtonian - stack of 5 - 1/250s ISO400<br>
+  		20090310 The Full Moon - March 10th 2009 - Canon 350D at prime focus of 200mm newtonian - stack of 3 - 1/1000s -  ISO200<br>
+20090304 The First Quarter Moon - March 4th 2009 - Canon 350D at prime focus of 200mm newtonian  - 1/400s ISO400<br>
+20080317 Clavius - 20 frames using toucam and X2 barlow on 200mm Newtonian - 20080317<br>
+200602092126 Gibbous Moon - Februay 2006 - Canon 350D at prime focus of 200mm newtonian - 1/800s ISO100<br>
+199501021018 One-day-old Moon - January 1995 - camera held to eyepiece of 60mm refractor - ~1/4s TMAX400 - Published in Astronomy Now!!<br>
+199306020322 Gibbous Moon - Summer 1993 - camera held to eyepiece of 60mm refractor - ~1/8s HP5400<br>
+199306000402 Full Moon - Summer 1993 - camera held to eyepiece of 60mm refractor - ~1/30s HP5400<br>
+
+
+
+</div>  
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
+
+</body>
+</html>

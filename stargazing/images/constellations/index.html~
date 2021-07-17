@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-image:url(background.jpg);
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+
+
+
+img
+{
+max-width: 85%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header1'
+  'header2'
+  'image'
+  'footer';
+  grid-gap: 1px;
+  background-color: #252525; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+
+.item1 { 
+grid-area: header1; 
+background-color: #252525;
+  text-align: center;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.item2 { 
+grid-area: header2; 
+background-color: #252525;
+  text-align: center;
+  padding: 10px;
+  font-size: 30px;
+}
+  
+.item3 { 
+grid-area: image;
+background-color: #505050;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;  
+  }
+
+.item4 { 
+grid-area: footer; 
+background-color: #252525;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+  
+
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+  		<div class="item1">cjb's astrophotography:</div>
+  		
+  		<div class="item2"> <a href="text.html">constellations</a></div>
+  
+  		
+  		<div class="item3">
+  		
+  	
+  		
+  		<p><img src="Cassiopeia 20201010.jpg" alt=""><br>Cassiopeia 20201010
+  		<p><img src="Cassiopeia outline 20201010.jpg" alt=""><br>Cassiopeia outline 20201010
+  		<p><img src="Cygnus + Lyra 20201010.jpg" alt=""><br>Cygnus + Lyra 20201010
+  		<p><img src="Cygnus + Lyra outlines 20201010.jpg" alt=""><br>Cygnus + Lyra outlines 20201010
+  		<p><img src="Gemini 20210106.jpg" alt=""><br>Gemini 20210106
+  		<p><img src="Gemini outline 20210106.jpg" alt=""><br>Gemini outline 20210106
+  		<p><img src="Leo 20200420.jpg" alt=""><br>Leo 20200420
+  		<p><img src="Leo outline 20200420.jpg" alt=""><br>Leo outline 20200420
+  		<p><img src="Orion 20201122.jpg" width="50%" height="auto" alt=""><br>Orion 20201122
+  		<p><img src="Orion outline 20201122.jpg" width="50%" height="auto" alt=""><br>Orion outline 20201122
+  		<p><img src="Perseus + Cassiopeia 20201010.jpg" alt=""><br>Perseus + Cassiopeia 20201010
+  		<p><img src="Perseus + Cassiopeia outlines 20201010.jpg" alt=""><br>Perseus + Cassiopeia outlines 20201010
+  		<p><img src="Square of Pegasus 20201010.jpg" alt=""><br>Square of Pegasus 20201010
+  		<p><img src="Square of Pegasus outline 20201010.jpg" alt=""><br>Square of Pegasus outline 20201010
+  		<p><img src="Taurus and Pleiades 20201122.jpg" alt=""><br>Taurus and Pleiades 20201122
+  		<p><img src="Taurus outline and Pleiades 20201122.jpg" alt=""><br>Taurus outline and Pleiades 20201122
+  		<p><img src="Ursa Major 20200424.jpg" alt=""><br>Ursa Major 20200424
+  		<p><img src="Ursa Major outline 20200424.jpg" alt=""><br>Ursa Major outline 20200424
+  		
+  	
+  		
+  		</div>  
+  		
+  		<div class="item4"><a href=" ../index.html">back</a></div>
+  	</div>
+
+</body>
+</html>
