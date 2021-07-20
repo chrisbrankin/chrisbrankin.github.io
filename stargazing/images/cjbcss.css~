@@ -14,7 +14,7 @@ a:link {color:white;}
 a:visited {color:white;}
 
 video {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 

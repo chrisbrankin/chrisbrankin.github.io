@@ -52,7 +52,7 @@ margin:auto;
 .item1 { 
 grid-area: header1; 
 background-color: #252525;
-  text-align: center;
+  text-align: left;
   padding: 10px;
   font-size: 40px;
 }
