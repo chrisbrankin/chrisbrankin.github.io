@@ -1,64 +1,145 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset='ISO-8859-1'>
-<meta name='generator' content='jAlbum 12.7.2 with Matrix 29, Custom style, album creation date 08/02/2021, 14:34'>
-<title>CJB&#39;s astro equipment</title>
-<link href='res/common.css' rel='stylesheet'>
-<style>
-	.mx-thumbs > div {height: 267px;}
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-image:url(background.jpg);
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header header'
+  'title title'
+  'col1 col2'
+  'footer footer';
+  grid-gap: 1px;
+  background-color: #252525; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #252525;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.item2 { 
+grid-area: title; 
+background-color: #252525;
+  text-align: center;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.item3 { 
+grid-area: col1; 
+
+background-color: #505050;
+  text-align: center;
+  padding:20px;
+  font-size: 15px;
+  max-width:100%;
+  }
+  
+.item3a { 
+grid-area: col2; 
+
+background-color: #505050;
+  text-align: center;
+  padding:20px;
+  font-size: 15px;
+  max-width:100%;
+  }
+
+.item4 { 
+grid-area: footer; 
+background-color: #252525;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+  
+
+  
+img
+{
+max-width: 100%;
+  height: auto;
+  border: 0px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+
+
 </style>
-<script src='res/highslide-matrix.min.js'></script>
-<script src='res/easing_equations.js'></script>
-<script src='res/hsprint.js'></script>
-<script src='res/hsconfig.js'></script>
 </head>
+
 <body>
-<div class='mx-topcontainer'>
-<!--[if IE]>
-<div class='mx-warning'><div class='mx-warning-inner'>You are using an obsolete browser<br>that will not display this site correctly.<br>Please update to a modern browser<br>like Chrome, Firefox, or IE11.</div></div>
-<![endif]-->
-<noscript>
-<div class='mx-warning'><div class='mx-warning-inner'>Javascript must be enabled for this page to function properly.</div></div>
-</noscript>
-<div class='mx-titlebar'><div class='mx-atitle'>CJB's astro equipment</div><div class='mx-adescription'>My Equipment</div></div>
-</div>
-<div class='mx-midcontainer'>
-<div class='mx-thumbs'>
-	<div>
-		<div>
-			<a onfocus='this.blur()' href='slides/200mm homemade newtonian telescope.jpg' id='image1' class='highslide' onclick='return hs.expand(this)'><img src='thumbs/200mm homemade newtonian telescope.jpg' width='160' height='240' alt='200mm homemade newtonian telescope' title='200mm homemade newtonian telescope'></a>
-			<div class='mx-thumbbox-bottomcaption'><div class='mx-thumbbox-title'>200mm homemade newtonian telescope</div></div>
-		</div>
-		<div>
-			<a onfocus='this.blur()' href='slides/original mirror figure.jpg' id='image2' class='highslide' onclick='return hs.expand(this)'><img src='thumbs/original mirror figure.jpg' width='228' height='240' alt='original mirror figure' title='original mirror figure'></a>
-			<div class='mx-thumbbox-bottomcaption'><div class='mx-thumbbox-title'>original mirror figure</div></div>
-		</div>
-		<div>
-			<a onfocus='this.blur()' href='slides/refigure 2005.jpg' id='image3' class='highslide' onclick='return hs.expand(this)'><img src='thumbs/refigure 2005.jpg' width='240' height='240' alt='refigure 2005' title='refigure 2005'></a>
-			<div class='mx-thumbbox-bottomcaption'><div class='mx-thumbbox-title'>refigure 2005</div></div>
-		</div>
-	</div>
-	<div>
-		<div>
-			<a onfocus='this.blur()' href='slides/350d+minieq+300mm+tripod.jpg' id='image4' class='highslide' onclick='return hs.expand(this)'><img src='thumbs/350d+minieq+300mm+tripod.jpg' width='180' height='240' alt='350d+minieq+300mm+tripod' title='350d+minieq+300mm+tripod'></a><div class='highslide-caption highslide-move'><div class='mx-hs-comment'>300mm pentax SMC takumar lens mounted on Canon 350D camera driven on a mini EQ mount on top of a surveyor's tripod</div></div>
-			<div class='mx-thumbbox-bottomcaption'><div class='mx-thumbbox-title'>350d+minieq+300mm+tripod</div></div>
-		</div>
-		<div>
-			<a onfocus='this.blur()' href='slides/350d+minieq+300mm.jpg' id='image5' class='highslide' onclick='return hs.expand(this)'><img src='thumbs/350d+minieq+300mm.jpg' width='180' height='240' alt='350d+minieq+300mm' title='350d+minieq+300mm'></a><div class='highslide-caption highslide-move'><div class='mx-hs-comment'>300mm pentax SMC takumar lens mounted on Canon 350D camera driven on a mini EQ mount</div></div>
-			<div class='mx-thumbbox-bottomcaption'><div class='mx-thumbbox-title'>350d+minieq+300mm</div></div>
-		</div>
-		<div>
-			<a onfocus='this.blur()' href='slides/Skywatcher Evostar90.jpg' id='image6' class='highslide' onclick='return hs.expand(this)'><img src='thumbs/Skywatcher Evostar90.jpg' width='240' height='171' alt='Skywatcher Evostar90' title='Skywatcher Evostar90'></a><div class='highslide-caption highslide-move'><div class='mx-hs-comment'>Skywatcher Evostar 90</div></div>
-			<div class='mx-thumbbox-bottomcaption'><div class='mx-thumbbox-title'>Skywatcher Evostar90</div></div>
-		</div>
-	</div>
-</div>
-<div class='mx-nav mx-navbelow'>
-<div class='mx-nav1'><a onfocus='this.blur()' href='../index.html'>Up</a></div>
-</div>
-<div class='mx-credits'>Generated by <a href='http://jalbum.net/' onfocus='this.blur()' target='_blank'>jAlbum 12.7.2</a>, <a href='http://jgromit.com/matrix/' onfocus='this.blur()' target='_blank'>Matrix 29</a></div>
-</div>
+
+
+	<div class="cjbgrid">
+	
+  		<div class="item1">cjb's astrophotography:</div>
+  		
+  		<div class="item2">my equipment</div>
+  
+  		
+  		<div class="item3">
+  		
+  		
+  		<p><img src="200mm homemade newtonian telescope.jpg" alt=""><br>200mm homemade newtonian telescope
+  		<p><img src="original mirror figure.jpg" width="450px" alt=""><br>original mirror figure
+  		<p><img src="refigure 2005.jpg" alt=""><br>refigure 2005
+  		
+  				
+  		
+  	
+  		
+  		</div>  
+  		
+  		<div class="item3a">
+  		
+  		<p><img src="350d+minieq+300mm.jpg" alt=""><br>350d+minieq+300mm
+  		<p><img src="350d+minieq+300mm+tripod.jpg" alt=""><br>350d+minieq+300mm+tripod
+  		
+  		<p><img src="Skywatcher Evostar90.jpg" width="450px" alt=""><br>Skywatcher Evostar 90
+  		
+  		
+  				
+  		</div>
+  	
+  		
+  		
+  		<div class="item4"><a href=" ../index.html">back</a></div>
+  	</div>
 
 </body>
 </html>
