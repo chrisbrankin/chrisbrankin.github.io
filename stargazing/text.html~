@@ -77,18 +77,7 @@ background-color: #222222;
 	<div class="cjbgrid">
   		<div class="item1">some background information</div>
   		<div class="item2"><p>
-<u>Image processing software details</u>:<p> 
-Original processing done in Windows where DeepSkyStacker has been used to stack digital images captured with an unmodded Canon 350D DSLR, while older negatives have been digitised with a film scanner.<br> 
-Webcam videos were captured with K3CCDtools and stacked in Registax.<br>
-Photoshop Elements was used for post processing (cropping then levels and curves adjustments) and PixInsightLE (now sadly discontinued) to remove gradients. <br>
-Noel's Actions was used mainly to remove banding. <br>
-Finally the excellent startrails program was used for the startrails. <p>
-However moving over to Linux/Ubuntu have found that <br>
-GIMP can replace Photoshop and <br>
-SIRIL does a great job replacing DeepSkyStacker AND Registax AND PixInsightLE. <br>
-wxAstroCapture could be used to replace K3CCDtools and <br>
-PIPP can be used to convert avi/mp4 video clips to ser files ready for processing by SIRIL. <br>
-There is a Gimp Plugin to do startrail stacking. <p>
+
 
 <u>Camera and lens details</u>:<p>
 Images captured with an unmodded Canon 350d on a mini-EQ mount. <br>
@@ -101,6 +90,19 @@ a Hanimex f6.3 400mm and a range of Pentax SMC Takumar lenses (300mm, 135mm and 
 Video clips of the planets were captured using a Toucam and X2 Barlow on the Dobsonian mounted 200mm reflector. <br>
 Focusing, exposure adjustment and actual capture all done in repeated steps each time using the few seconds available before the image drifts off the laptop screen! <br>
 Hence only a few frames available for stacking. <p>
+
+<u>Image processing software details</u>:<p> 
+Original processing done in Windows where DeepSkyStacker has been used to stack digital images captured with an unmodded Canon 350D DSLR, while older negatives have been digitised with a film scanner.<br> 
+Webcam videos were captured with K3CCDtools and stacked in Registax.<br>
+Photoshop Elements was used for post processing (cropping then levels and curves adjustments) and PixInsightLE (now sadly discontinued) to remove gradients. <br>
+Noel's Actions was used mainly to remove banding. <br>
+Finally the excellent startrails program was used for the startrails. <p>
+However moving over to Linux/Ubuntu have found that <br>
+GIMP can replace Photoshop and <br>
+SIRIL does a great job replacing DeepSkyStacker AND Registax AND PixInsightLE. <br>
+wxAstroCapture could be used to replace K3CCDtools and <br>
+PIPP can be used to convert avi/mp4 video clips to ser files ready for processing by SIRIL. <br>
+There is a Gimp Plugin to do startrail stacking. <p>
 
 
 <u>Astrophotography with a mobile phone</u>:<p> 
