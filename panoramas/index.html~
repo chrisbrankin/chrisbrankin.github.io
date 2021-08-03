@@ -75,7 +75,7 @@ background-color: #000000;
 grid-area: footer; 
 background-color: #000000;
   padding: 0px;
-  font-size: 12px;
+  font-size: 25px;
   text-align:left;
   }
 
