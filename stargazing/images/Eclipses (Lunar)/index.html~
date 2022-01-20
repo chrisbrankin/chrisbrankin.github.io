@@ -6,88 +6,9 @@
 <meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
 
 <title>cjb's astrophotography</title>
-<style type="text/css">
 
-body
+<link rel = "stylesheet" type="text/css" href = "../cjbcss.css">
 
-{
-font-family:sans-serif;
-font-style:italic;
-color: white;/*default text colour*/
-background-image:url(background.jpg);
-}
-
-a:link {color:white;}
-a:visited {color:white;}
-
-
-
-img
-{
-max-width: 85%;
-  height: auto;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 10px;
-}
- 
-
-/* create grid with three rows and two columns with eg header spread over two columns*/
-.cjbgrid {
-  display: grid;
-  grid-template-areas:
-  'header1'
-  'header2'
-  'image'
-  'footer';
-  grid-gap: 1px;
-  background-color: #252525; /* this sets colour of grid lines*/
-  padding: 0px;
-  max-width:1280px;
-height:auto;
-margin:auto;
-}
-
-/* set defaults for all the grid areas*/
-
-
-
-
-.item1 { 
-grid-area: header1; 
-background-color: #252525;
-  text-align: center;
-  padding: 10px;
-  font-size: 40px;
-}
-
-.item2 { 
-grid-area: header2; 
-background-color: #252525;
-  text-align: center;
-  padding: 10px;
-  font-size: 30px;
-}
-  
-.item3 { 
-grid-area: image;
-background-color: #505050;
-  text-align: center;
-  padding: 10px;
-  font-size: 20px;  
-  }
-
-.item4 { 
-grid-area: footer; 
-background-color: #252525;
-  padding: 10px;
-  font-size: 15px;
-  text-align:left;
-  }
-  
-
-
-</style>
 </head>
 
 <body>
@@ -104,13 +25,13 @@ background-color: #252525;
   		
   	
   		
-  		<p><img src="20150928 Total Lunar Eclipse.jpg" alt=""><br>20150928 Total Lunar Eclipse
-  		<p><img src="20070303 Total Lunar Eclipse.jpg" alt=""><br>20070303 Total Lunar Eclipse
-  		<p><img src="19960927 Total Lunar Eclipse.jpg" alt=""><br>19960927 Total Lunar Eclipse
-  		<p><img src="19960403 Total Lunar Eclipse 1.jpg" width="45%" height="auto" alt=""><br>19960403 Total Lunar Eclipse 1
-  		<p><img src="19960403 Total Lunar Eclipse 2.jpg" width="45%" height="auto" alt=""><br>19960403 Total Lunar Eclipse 2
-  		<p><img src="19960403 Total Lunar Eclipse 3.jpg" width="45%" height="auto" alt=""><br>19960403 Total Lunar Eclipse 3
-  		<p><img src="19960403 Total Lunar Eclipse 4.jpg" width="45%" height="auto" alt=""><br>19960403 Total Lunar Eclipse 4
+  		<p><img src="20150928 Total Lunar Eclipse.jpg" alt="" title="Total phase exposure 8s at 10minute intervals. ISO 400 50mm lens f5.6."><br>20150928 Total Lunar Eclipse
+  		<p><img src="20070303 Total Lunar Eclipse.jpg" alt="" title="Total Lunar Eclipse taken about mid-eclipse 23:28pm - canon 350d at prime focus of 200mm newtonian - 0.8s at ISO800"><br>20070303 Total Lunar Eclipse
+  		<p><img src="19960927 Total Lunar Eclipse.jpg" alt="" title="fixed camera 135mm lens (X2) - ~2-5s agfacolor 200 - (+Saturn)"><br>19960927 Total Lunar Eclipse
+  		<p><img src="19960403 Total Lunar Eclipse 1.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400"><br>19960403 Total Lunar Eclipse 1
+  		<p><img src="19960403 Total Lunar Eclipse 2.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - 1/250s fujisensia 400"><br>19960403 Total Lunar Eclipse 2
+  		<p><img src="19960403 Total Lunar Eclipse 3.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~4s fujisensia 400"><br>19960403 Total Lunar Eclipse 3
+  		<p><img src="19960403 Total Lunar Eclipse 4.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400"><br>19960403 Total Lunar Eclipse 4
   		
   		
   	
