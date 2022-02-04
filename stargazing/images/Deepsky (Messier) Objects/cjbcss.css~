@@ -7,7 +7,7 @@ body
 font-family:sans-serif;
 font-style:italic;
 color: white;/*default text colour*/
-background-image:url(background.jpg);
+background-color:black;
 }
 
 a:link {color:white;}
