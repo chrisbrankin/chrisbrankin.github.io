@@ -5,39 +5,111 @@
 <meta charset="utf-8">
 <meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
 
+
+
+
 <title>cjb's astrophotography</title>
 
-<link rel = "stylesheet" type="text/css" href = "../cjbcss.css">
+
+<style type="text/css">
+
+
+
+
+a:link {color:white;}
+a:visited {color:white;}
+
+body { 
+background-image:url(../../background.jpg);
+font-style:italic;
+font-family:sans-serif;
+color:white;
+
+}
+
+img {
+
+max-width:100%;
+height:auto;
+
+}
+
+
+.maingrid 
+{
+display: grid;
+grid-template-areas:
+'header'
+'4col'
+'2col'
+'footer';
+background-color: #070707;
+text-align: center;
+font-size: 16px; 
+margin:auto;
+max-width:400px;
+height:auto;
+   }
+
+.item1 { 
+grid-area: header; 
+background-color: #252525;
+text-align: left;
+padding: 20px;
+font-size: 40px;
+ }
+  
+  
+.thumb { 
+display: grid;
+grid-area:4col;
+grid-template-columns: 295px 295px 295px 295px;
+grid-gap:20px;
+background-color: #070707;
+text-align: center;
+padding:20px;
+font-size: 16px; 
+  }
+  
+
+
+
+.item4 { 
+grid-area: footer; 
+background-color: #252525;
+padding:10px ;
+font-size: 15px;
+text-align:left;
+  }
+/* width 50% by trial and error for portrait to get right height for thumb from original */
+</style>
+
 
 </head>
 
 <body>
 
+<div class="maingrid">
 
-	<div class="cjbgrid">
-	
-  		<div class="item1">cjb's astrophotography:</div>
-  		
-  		<div class="item2">The Planets</div>
+<div class="item1">Planets</div>
+
   
   		
-  		<div class="item3">
+  		<div class="thumb">
   		
-  	
+  			
+  		<a href="201010060000.html"><img src="201010060000.jpg" alt=""></a>
+  		<a href="200601282336.html"><img src="200601282336.jpg" alt=""></a>
+  		<a href="200511172201.html"><img src="200511172201.jpg" alt=""></a>
+  		<a href="200510302201.html"><img src="200510302201.jpg" alt=""></a>
   		
-  		<p><img src="201010060000.jpg" width="100%" height="auto" alt=""><br>20101006 Jupiter
-  		<p><img src="200601282336.jpg" alt=""><br>20060128 Saturn
-  		<p><img src="200511172201.jpg" alt=""><br>20051117 Mars
-  		<p><img src="200510302201.jpg" alt=""><br>20051030 Mars
+  		<p>20101006 Jupiter</p><p>20060128 Saturn</p><p>20051117 Mars</p><p>20051030 Mars</p>
   		
-  		
-  		
-  	
-  		
-  		</div>  
-  		
-  		<div class="item4"><a href=" ../index.html">back</a></div>
-  	</div>
+  
+		</div>
 
+<div class="item4"><a href="../index.html">back</a></div>
+
+</div>
 </body>
 </html>

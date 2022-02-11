@@ -98,15 +98,15 @@ background-color: #222222;
   		
   		
   		<div class="item2"><p>
-  			<a href="Messier Objects/index.html">Deepsky Messier</a><p>
-			<a href="Non-Messier Objects/index.html">Deepsky non-Messier</a><p>
-			<a href="The Moon/index.html">Moon</a><p>
-			<a href="the planets/index.html">Planets</a><p>
-			<a href="comets/index.html">Comets</a><p>
-			<a href="Solar Eclipses/index.html">Eclipses (Solar)</a><p>
-			<a href="Lunar Eclipses/index.html">Eclipses (Lunar)</a><p>
-			<a href="constellations/index.html">Constellations</a><p>
-			<a href="other/index.html">Other</a><p>
+  			<a href="Deepsky (Messier) Objects/index.html">Deepsky Messier</a><p>
+			<a href="Deepsky (other) Objects/index.html">Deepsky non-Messier</a><p>
+			<a href="Moon/index.html">Moon</a><p>
+			<a href="Planets/index.html">Planets</a><p>
+			<a href="Comets/index.html">Comets</a><p>
+			<a href="Eclipses (Solar)/index.html">Eclipses (Solar)</a><p>
+			<a href="Eclipses (Lunar)/index.html">Eclipses (Lunar)</a><p>
+			<a href="Constellations/index.html">Constellations</a><p>
+			<a href="Other Astro stuff/index.html">Other</a><p>
 		</div>
 			
   		<div class="item3"><img src="M31 The Andromeda Galaxy.jpg" alt=""><p>The Andromeda Galaxy</p></div>  

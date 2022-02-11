@@ -9,6 +9,22 @@
 
 <link rel = "stylesheet" type="text/css" href = "../cjbcss.css">
 
+<style>
+
+ body
+ {
+ padding-top:100px;
+ }
+ 
+  .item3{
+padding-top:100px; 
+ }
+ 
+
+</style>
+
+
+
 </head>
 
 <body>
@@ -23,9 +39,12 @@
   	
   	
   		
-  		<img src="19960927 Total Lunar Eclipse.jpg" alt="" title="fixed camera 135mm lens (X2) - ~2-5s agfacolor 200 - (+Saturn)"></a>
+  		<img src="200510302201.jpg" alt="" title="Images captured using a Toucam and X2 Barlow on the Dobsonian mounted 200mm reflector. 
+Focusing, exposure adjustment and actual capture all done in repeated steps each time using the few seconds available before the image drifts off the laptop screen! 
+Hence only a few frames available for stacking.">
   		
-  		<p>19960927 Total Lunar Eclipse
+  		<p>20051030</p>
+
   		
   	
   		

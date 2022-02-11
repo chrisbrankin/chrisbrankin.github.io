@@ -5,41 +5,115 @@
 <meta charset="utf-8">
 <meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
 
+
+
+
 <title>cjb's astrophotography</title>
 
-<link rel = "stylesheet" type="text/css" href = "../cjbcss.css">
+
+<style type="text/css">
+
+
+
+
+a:link {color:white;}
+a:visited {color:white;}
+
+body { 
+background-image:url(background.jpg);
+font-style:italic;
+font-family:sans-serif;
+color:white;
+
+}
+
+img {
+
+max-width:100%;
+height:auto;
+
+}
+
+
+.maingrid 
+{
+display: grid;
+grid-template-areas:
+'header'
+'4col'
+'2col'
+'footer';
+background-color: #070707;
+text-align: center;
+font-size: 16px; 
+margin:auto;
+max-width:1280px;
+height:auto;
+   }
+
+.item1 { 
+grid-area: header; 
+background-color: #252525;
+text-align: left;
+padding: 20px;
+font-size: 40px;
+ }
+  
+  
+.thumb { 
+display: grid;
+grid-area:4col;
+grid-template-columns: 295px 295px 295px 295px;
+grid-gap:20px;
+background-color: #070707;
+text-align: center;
+padding:20px;
+font-size: 16px; 
+  }
+  
+
+
+
+.item4 { 
+grid-area: footer; 
+background-color: #252525;
+padding:10px ;
+font-size: 15px;
+text-align:left;
+  }
+/* width 50% by trial and error for portrait to get right height for thumb from original */
+</style>
+
 
 </head>
 
 <body>
 
+<div class="maingrid">
 
-	<div class="cjbgrid">
-	
-  		<div class="item1">cjb's astrophotography:</div>
-  		
-  		<div class="item2"> <a href="text.html">Lunar Eclipses</a></div>
+<div class="item1">Eclipses (Lunar)</div>
+
   
   		
-  		<div class="item3">
-  		
-  	
-  		
-  		<p><img src="20150928 Total Lunar Eclipse.jpg" alt="" title="Total phase exposure 8s at 10minute intervals. ISO 400 50mm lens f5.6."><br>20150928 Total Lunar Eclipse
-  		<p><img src="20070303 Total Lunar Eclipse.jpg" alt="" title="Total Lunar Eclipse taken about mid-eclipse 23:28pm - canon 350d at prime focus of 200mm newtonian - 0.8s at ISO800"><br>20070303 Total Lunar Eclipse
-  		<p><img src="19960927 Total Lunar Eclipse.jpg" alt="" title="fixed camera 135mm lens (X2) - ~2-5s agfacolor 200 - (+Saturn)"><br>19960927 Total Lunar Eclipse
-  		<p><img src="19960403 Total Lunar Eclipse 1.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400"><br>19960403 Total Lunar Eclipse 1
-  		<p><img src="19960403 Total Lunar Eclipse 2.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - 1/250s fujisensia 400"><br>19960403 Total Lunar Eclipse 2
-  		<p><img src="19960403 Total Lunar Eclipse 3.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~4s fujisensia 400"><br>19960403 Total Lunar Eclipse 3
-  		<p><img src="19960403 Total Lunar Eclipse 4.jpg" width="45%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400"><br>19960403 Total Lunar Eclipse 4
+  		<div class="thumb">
   		
   		
-  	
+  		<a href="20150928 Total Lunar Eclipse.html"><img src="20150928 Total Lunar Eclipse.jpg" alt="" title="Total phase exposure 8s at 10minute intervals. ISO 400 50mm lens f5.6."></a>
+  		<a href="20070303 Total Lunar Eclipse.html"><img src="20070303 Total Lunar Eclipse.jpg" alt="" title="Total Lunar Eclipse taken about mid-eclipse 23:28pm - canon 350d at prime focus of 200mm newtonian - 0.8s at ISO800"></a>
+  		<a href="19960927 Total Lunar Eclipse.html"><img src="19960927 Total Lunar Eclipse.jpg" alt="" title="fixed camera 135mm lens (X2) - ~2-5s agfacolor 200 - (+Saturn)"></a>
+  		<p></p>
+  		<p>20150928 Total Lunar Eclipse</p><p>20070303 Total Lunar Eclipse</p><p>19960927 Total Lunar Eclipse</p><p></p>
+  		<a href="19960403 Total Lunar Eclipse 1.html"><img src="19960403 Total Lunar Eclipse 1.jpg" width="50%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~1/250s fujisensia 400"></a>
+  		<a href="19960403 Total Lunar Eclipse 2.html"><img src="19960403 Total Lunar Eclipse 2.jpg" width="50%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400"></a>
+  		<a href="19960403 Total Lunar Eclipse 3.html"><img src="19960403 Total Lunar Eclipse 3.jpg" width="50%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~1s fujisensia 400"></a>
+  		<a href="19960403 Total Lunar Eclipse 4.html"><img src="19960403 Total Lunar Eclipse 4.jpg" width="50%" height="auto" alt="" title="April 1996 - prime focus 200mm newtonian - ~4s fujisensia 400"></a>
   		
-  		</div>  
+  		<p>19960403 Total Lunar Eclipse 1</p><p>19960403 Total Lunar Eclipse 2</p><p>19960403 Total Lunar Eclipse 3</p><p>19960403 Total Lunar Eclipse 4</p>
   		
-  		<div class="item4"><a href=" ../index.html">back</a></div>
-  	</div>
+		</div>
 
+<div class="item4"><a href="../index.html">back</a></div>
+
+</div>
 </body>
 </html>
