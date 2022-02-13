@@ -14,7 +14,7 @@ body
 font-family:sans-serif;
 font-style:italic;
 color: white;/*default text colour*/
-background-color:#000000;
+background-image:url(../background.jpg);
 }
 
 a:link {color:white;}
@@ -27,7 +27,6 @@ a:visited {color:white;}
   grid-template-areas:
   'header'
   'info'
-  'details'
   'footer';
   grid-gap: 1px;
   background-color: white; /* this sets colour of grid lines*/
@@ -53,16 +52,11 @@ background-color: #222222;
 grid-area: info; 
 background-color: #222222;
   text-align: left;
-  padding:18px;
-  font-size: 20px;
+  padding:50px;
+  font-size: 15px;
   }
   
-.item3 {
-background-color: #222222;
-  text-align: left;
-  padding: 10px;
-  font-size: 12px;
-}
+
 
 .item4 { 
 grid-area: footer; 
@@ -71,6 +65,8 @@ background-color: #222222;
   font-size: 15px;
   text-align:left;
   }
+  
+
 
 </style>
 </head>
@@ -79,14 +75,41 @@ background-color: #222222;
 
 
 	<div class="cjbgrid">
-	
-		<div class="item1">Camera and lens details</div>
-		
-  		<div class="item2"><p>Images captured with an unmodded Canon 350d on a mini-EQ mount.
-<p>The following lenses have been used:<br> a Hanimex f6.3 400mm and a range of Pentax SMC Takumar lenses (300mm, 135mm and 50mm).</div>
+  		<div class="item1">some background information</div>
+  		<div class="item2"><p>
 
-  	
+
+<u>Camera and lens details</u>:<p>
+Most images captured with an unmodded Canon 350d on a mini-EQ mount, where the following lenses have been used:<br>
+a Hanimex f6.3 400mm and a range of Pentax SMC Takumar lenses (300mm, 135mm and 50mm).
+<p>
+However some brighter objects were imaged at the prime-focus of the 8" Dobsonian.
+
+<p>
+
+<u>Video Capture method</u>:<p>
+
+Video clips of the planets were captured using a Toucam and X2 Barlow on the Dobsonian mounted 200mm reflector. <br>
+Focusing, exposure adjustment and actual capture all done in repeated steps each time using the few seconds available before the image drifts off the laptop screen! <br>
+Hence only a few frames available for stacking. <p>
+
+<u>Image processing software details</u>:<p> 
+Original processing done in Windows where <a href="http://deepskystacker.free.fr/english/index.html">DeepSkyStacker</a> has been used to stack digital images captured with an unmodded Canon 350D DSLR, while older negatives have been digitised with a film scanner.<br> 
+Webcam videos were captured with <a href="http://www.pk3.org/Astro/index.htm?k3ccdtools.htm">K3CCDtools </a>and stacked in <a href="https://www.astronomie.be/registax/">Registax</a>.<br>
+<a href="https://www.adobe.com/uk/products/photoshop-elements.html">Photoshop Elements</a> was used for post processing (cropping then levels and curves adjustments) and <a href="https://www.pixinsight.com/">PixInsightLE</a> (now sadly discontinued) to remove gradients. <br>
+<a href="https://www.prodigitalsoftware.com/AstronomyToolsActions.html">Noel's Actions</a> was used mainly to remove banding. <br>
+Finally the excellent <a href="https://startrails.de/">startrails</a> program was used for the startrails. <p>
+However moving over to Linux/Ubuntu have found that <br>
+<a href="https://www.gimp.org/">GIMP</a> can replace Photoshop and <br>
+<a href="https://siril.org/">SIRIL</a> does a great job replacing DeepSkyStacker AND Registax AND PixInsightLE. <br>
+<a href="https://arnholm.org/astro/software/wxAstroCapture/">wxAstroCapture</a> could be used to replace K3CCDtools and <br>
+<a href="https://sites.google.com/site/astropipp/home">PIPP</a> can be used to convert avi/mp4 video clips to ser files ready for processing by SIRIL. <br>
+There is a Gimp <a href="https://github.com/themaninthesuitcase/gimp-startrail-compositor">Plugin</a> to do startrail stacking. <p>
+
+
+
   		<div class="item4"><a href="index.html">back</a></div>
+  		
   	</div>
 
 </body>
