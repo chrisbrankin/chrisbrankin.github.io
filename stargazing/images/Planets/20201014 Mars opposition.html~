@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+
+<link rel = "stylesheet" type="text/css" href = "../cjbcss.css">
+
+<style>
+
+ body
+ {
+ padding-top:100px;
+ }
+ 
+  .item3{
+padding-top:100px; 
+ }
+ 
+ .cjbgrid {
+max-width:500px; 
+ }
+</style>
+
+
+
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+  		
+  
+  		
+  		<div class="item3">
+  	
+  	
+  		
+  		<img src="20201014 Mars opposition.jpg" alt="" title="Images captured using a Toucam and X2 Barlow on the Dobsonian mounted 200mm reflector. 
+Focusing, exposure adjustment and actual capture all done in repeated steps each time using the few seconds available before the image drifts off the laptop screen! 
+Hence only a few frames available for stacking.">
+  		
+  		<p>20201014 Mars opposition</p>
+
+  		
+  	
+  		
+  		</div>  
+  		
+  		<div class="item4"><a href="index.html">back</a></div>
+  	</div>
+
+</body>
+</html>
