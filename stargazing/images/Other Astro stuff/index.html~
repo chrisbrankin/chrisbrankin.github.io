@@ -105,7 +105,7 @@ text-align:left;
   		<div class="thumb">
 
   		
-  		<p id="startrails" style="text-align:left;"><strong>startrails:</strong></p> <p></p><p></p><p></p> 
+  		<p id="startrails" style="text-align:left;">startrails:</p> <p></p><p></p><p></p> 
 			
   		<a href="20200411 startrails.html"><img src="20200411 startrails.jpg" alt="" title="about 1 hours worth of 13s exposures, 28mm lens, f/4, iso 800"></a>
   		<a href="20200414 startrails.html"><img src="20200414 startrails.jpg" alt=""></a>
@@ -115,26 +115,30 @@ text-align:left;
   		<a href="SCP startrail.html"><img src="SCP startrail.jpg" alt=""></a><p></p><p></p><p></p> 
   		<p>around the SCP</p><p></p><p></p><p></p>
   		
-  		<p id="conjunctions" style="text-align:left;"><strong>conjunctions:</strong></p><p></p><p></p><p></p> 
+  		<p id="conjunctions" style="text-align:left;">conjunctions:</p><p></p><p></p><p></p> 
   		
+  		<a href="20201219 SatJupconandmoons.html"><img src="20201219 SatJupconandmoons.jpg" alt=""></a>
   		<a href="20200524 Moon-Mercury-Venus.html"><img src="20200524 Moon-Mercury-Venus.JPG" alt=""></a>
   		<a href="20190214 Mars-Uranus conjunction.html"><img src="20190214 Mars-Uranus conjunction.jpg" alt="" title="Mars overexposed and Uranus bottom left middle about 6 o'clock to Mars. 26 x 0.8s images stacked."></a>
   		<a href="20190131 Venus-Moon-Jupiter conjunction.html"><img src="20190131 Venus-Moon-Jupiter conjunction.JPG" alt="" title="350D and 135mm lens .. 1s at ISO400"></a>  				  
-  		<a href="20181207 Mars-Neptune conjunction.html"><img src="20181207 Mars-Neptune conjunction.jpg" alt="" title="Stack of 10 1s images taken with 350D on fixed tripod and 300mm SMC Takumar lens"></a>
-  		<p>20200524 Moon-Mercury-Venus</p><p>20190214 Mars-Uranus</p><p>20190131 Venus-Moon-Jupiter</p><p> 20181207 Mars-Neptune conjunction</p>
+  		<p>20201219 Saturn-Jupiter the great conjunction</p><p>20200524 Moon-Mercury-Venus</p><p>20190214 Mars-Uranus</p><p>20190131 Venus-Moon-Jupiter</p>
+  		
+		<a href="20181207 Mars-Neptune conjunction.html"><img src="20181207 Mars-Neptune conjunction.jpg" alt="" title="Stack of 10 1s images taken with 350D on fixed tripod and 300mm SMC Takumar lens"></a>  		
   		<a href="20181207 Mars-Neptune conjunction2.html"><img src="20181207 Mars-Neptune conjunction2.jpg" alt="" title="Stack of 10 0.5s images taken with 350D on fixed tripod and 300mm SMC Takumar lens"></a>
   		<a href="20100921 Uranus and Jupiter.html"><img src="20100921 Uranus and Jupiter.jpg" width="50%" height="auto" alt="" title="22x1.6s images at ISO800 - 350D and 300mm SMC Takumar lens - fixed tripod"></a>
   		<a href="20010512 Jupiter-Mercury.html"><img src="20010512 Jupiter-Mercury .jpg" alt="" title="Kodak Elite Chrome 400"></a>
-  		<a href="20000406 Moon-Mars-Jupiter-Saturn.html"><img src="20000406 Moon-Mars-Jupiter-Saturn.jpg" alt="" title="fixed camera 58mm lens - ~15s kodachrome 64"></a>
-  		<p>20181207 Mars-Neptune </p><p>20100921 Uranus and Jupiter</p><p>20010512 Jupiter-Mercury </p><p>20000406 Moon-Mars-Jupiter-Saturn</p>
+  		<p> 20181207 Mars-Neptune conjunction</p><p>20181207 Mars-Neptune </p><p>20100921 Uranus and Jupiter</p><p>20010512 Jupiter-Mercury </p>
   		
-  		<p id="transits" style="text-align:left;"><strong>transits:</strong></p><p></p><p></p><p></p> 
+  		<a href="20000406 Moon-Mars-Jupiter-Saturn.html"><img src="20000406 Moon-Mars-Jupiter-Saturn.jpg" alt="" title="fixed camera 58mm lens - ~15s kodachrome 64"></a><p></p><p></p><p></p>
+  		<p>20000406 Moon-Mars-Jupiter-Saturn</p><p></p><p></p><p></p>
+  		
+  		<p id="transits" style="text-align:left;">transits:</p><p></p><p></p><p></p> 
   			
   		 <a href="20160509 Mercury transit.html"><img src="20160509 Mercury transit.JPG"  alt=""></a>
   		 <a href="20040608 Venus transit.html"><img src="20040608 Venus transit.jpg"   alt="" title="image projected onto screen and photographed"></a><p></p><p></p>
   		 <p>20160509 Mercury transit</p><p>20040608 Venus transit</p><p> </p><p></p>
   		 			
-		<p id="occultations" style="text-align:left;"><strong>occultations:</strong></p>  <p></p><p></p><p></p> 		 
+		<p id="occultations" style="text-align:left;">occultations:</p>  <p></p><p></p><p></p> 		 
 				
   		<a href="20081201 Moon-Venus occultation.html"><img src="20081201 Moon-Venus occultation.jpg" alt="" title="350D with 135mm lens - 0.5s at ISO400"></a>
   		<a href="20081201 Moon-Venus occultation 2.html"><img src="20081201 Moon-Venus occultation 2.jpg" alt=""></a>
@@ -142,7 +146,7 @@ text-align:left;
   		<a href="20020126 Jupiter-Moon occultation 2.html"><img src="20020126 Jupiter-Moon occultation 2.jpg" alt=""></a>
   		<p>20081201 Moon-Venus </p><p>20081201 Moon-Venus </p><p>20020126 Jupiter-Moon </p><p>20020126 Jupiter-Moon</p>
   		
-  		<p id="doubles" style="text-align:left;"><strong>doubles:</strong></p> <p></p><p></p><p></p> 
+  		<p id="doubles" style="text-align:left;">doubles:</p> <p></p><p></p><p></p> 
   		
   		<a href="20200424_220722 Mizar Alcor.html"><img src="20200424_220722 Mizar Alcor.jpg" alt=""></a><p></p><p> </p><p></p>
   		<p>20200424 Mizar Alcor</p><p></p><p> </p><p></p>
