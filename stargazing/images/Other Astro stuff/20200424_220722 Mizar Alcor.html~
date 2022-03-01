@@ -10,21 +10,7 @@
 <link rel = "stylesheet" type="text/css" href = "../cjbcss.css">
 
 </head>
-<style>
 
- body
- {
- padding-top:100px;
- }
- 
-  .item3{
-padding-top:100px; 
- }
- 
- .cjbgrid {
-max-width:500px; 
- }
-</style>
 <body>
 
 
@@ -37,9 +23,9 @@ max-width:500px;
   	
   	
   		
-  <img src="20201219 SatJupconandmoons.jpg" alt="" >
+ <img src="20200424_220722 Mizar Alcor.jpg" alt="" title="mobile image 1/500s through 40mm eyepiece on 8 inch reflector">
   		
-  		<p>20201219 Saturn-Jupiter
+  		<p>20200424_220722 Mizar Alcor
   		
   		</div>  
   		

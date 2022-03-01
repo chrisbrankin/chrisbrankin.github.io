@@ -10,21 +10,7 @@
 <link rel = "stylesheet" type="text/css" href = "../cjbcss.css">
 
 </head>
-<style>
 
- body
- {
- padding-top:100px;
- }
- 
-  .item3{
-padding-top:100px; 
- }
- 
- .cjbgrid {
-max-width:500px; 
- }
-</style>
 <body>
 
 
@@ -37,9 +23,11 @@ max-width:500px;
   	
   	
   		
-  <img src="20201219 SatJupconandmoons.jpg" alt="" >
+  	<img src="20210610_113240 Partial Solar Eclipse Chester.jpg" alt=""  title="taken just about mid-eclipse at 09:16:36 BST 20080801 - canon 350d and 400mm Hanimex lens - 1/200s at ISO800">
   		
-  		<p>20201219 Saturn-Jupiter
+  		<p>20210610_113240 Partial Solar Eclipse Chester
+  		
+  	
   		
   		</div>  
   		

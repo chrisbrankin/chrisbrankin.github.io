@@ -45,7 +45,7 @@ grid-area: header;
 background-color: #222222;
   text-align: left;
   padding: 10px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 
@@ -74,7 +74,7 @@ background-color: #222222;
 
 	<div class="cjbgrid">
 	
-	<div class="item1">Image details:<p></div>
+	<div class="item1">Image details:</div>
 
   		<div class="item3"><p>
 19961012 Partial Solar Eclipse - October 1996 - ~1/8s agfacolor 200<br>
