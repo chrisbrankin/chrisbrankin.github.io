@@ -7,8 +7,95 @@
 
 <title>cjb's astrophotography</title>
 
-<link rel = "stylesheet" type="text/css" href = "..images/cjbcss.css">
 
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-image:url(background.jpg);
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+
+video {
+  max-width: 80%;
+  height: auto;
+}
+
+img
+{
+max-width: 80%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+}
+ 
+ /* create grid with four rows and one column*/
+ 
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header1'
+  'header2'
+  'image'
+  'footer';
+  grid-gap: 1px;
+  background-color: #252525; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+
+.item1 { 
+grid-area: header1; 
+background-color: #252525;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.item2 { 
+grid-area: header2; 
+background-color: #252525;
+  text-align: center;
+  padding: 10px;
+  font-size: 30px;
+}
+  
+.item3 { 
+grid-area: image;
+background-color: #505050;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;  
+  }
+
+.item4 { 
+grid-area: footer; 
+background-color: #252525;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+  
+
+
+
+
+
+</style>
 </head>
 
 <body>
@@ -30,8 +117,7 @@
   		<p><video controls><source src="20201220 Saturn-Jupiter conjunction - clip.mp4"></video><br>20201220 Saturn-Jupiter conjunction - clip
   		<p><video controls><source src="20201219 Saturn-Jupiter conjunction - clip.mp4"></video><br>20201219 Saturn-Jupiter conjunction - clip
   		<p><img src="20201219 SatJupconandmoons.jpg" alt=""><br>20201219 Saturn - Jupiter conjunction and moons
-  		<p><img src="20201014 Mars opposition.jpg" alt=""><br>20201014 Mars opposition
-  		<p><img src="20201014 Mars at opposition.jpg" alt=""><br>20201014 Mars at opposition
+  		<p><img src="20201014 Mars at opposition.jpg" alt="" title="600 frames stacked from mobile clip through 6mm eyepiece on 8 inch reflector"><br>20201014 Mars at opposition
   		<p><img src="20200917 Mars.jpg" alt=""><br>20200917 Mars
   		<p><img src="20200712 Saturn.jpg" alt=""><br>20200712 Saturn
   		<p><img src="20200712 Jupiter.jpg" alt=""><br>20200712 Jupiter
