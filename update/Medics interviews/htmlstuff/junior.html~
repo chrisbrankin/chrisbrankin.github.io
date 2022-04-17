@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Talking Careers</title>
+
+
+
+
+
+
+<link rel = "stylesheet" type="text/css" href = "info.css">
+</head>
+<body>
+
+
+	<div class="cjbgrid">
+	
+  		<div class="item1">Talking Doctors <p style="text-align:center;font-size:30px;">Why I’m a doctor .. and why you could be too</p><p style="text-align:left;font-size:20px;"><a href="../index.html" style="color:white">Back</a></p>
+		</div>
+  		
+	  		
+  		<div class="item2">
+  		
+  		Junior doctors - 
+  		<p>This term refers to all doctors who are not consultants even though they may have been qualifed for many years. 
+  		<p>The doctors you will hear from in this section have finished their 'basic training' as junior doctors and have decided on the area of medicine in which they would like to specialise. 
+  		<p>They talk about their training and what life is like in the early years after qualifying as a doctor</p>
+		
+  		
+ 		
+  		
+  		</div>
+  		
+  		
+  		
+		 		
+ 		<div class="item100">&copy; Interviews conducted by Claire O'Donnell and developed in association with Coleg Cambria with webpage design by cjb</div>
+	</div>
+
+
+</body>
+</html>

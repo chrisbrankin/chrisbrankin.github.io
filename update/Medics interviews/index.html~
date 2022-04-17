@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Why I’m a doctor – and why you could be too</title>
+
+<link rel = "stylesheet" type="text/css" href = "../index.css">
+
+
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+  		<div class="header">
+  		<p style="margin:10px;">Talking Doctors</p><p style="font-size:30px;margin:5px;">Why I’m a doctor .. and why you could be too</p>
+		
+		</div>
+		
+		<div class="menu">
+		
+		<p style="margin:10px;"><a href="../index.html" style="color: black">Home</a>  
+		&nbsp&nbsp<a href="index.html" style="color:blue">Doctors</a>
+		&nbsp/&nbsp<a href="../HCP interviews/hcpindex.html" style="color:yellow">Health Care Professionals</a>
+		&nbsp/&nbsp<a href="../Dentist interviews/dentistindex.html" style="color:pink">Dentists</a>
+		&nbsp/&nbsp<a href="../Vet interviews/vetindex.html" style="color:lightgreen">Vets</a>
+		&nbsp&nbspContacts
+		</p>
+	
+				
+		</div>
+		
+		<div class="text">
+			
+		<p style="text-align:center;"><strong>This video clip resource is for you if you’re considering studying medicine</strong></p>
+	
+		<p>The <a href="htmlstuff/background.html">doctors and medical students</a> you’ll hear from in these clips are passionate about what they do 
+		and have given their time to give you an insight into the sort of people who become doctors and what a career in medicine is like. </p>
+		
+
+   
+		<p><a href="htmlstuff/hear.html">What you will hear</a> will help you with your personal statement and interview preparation.</p>
+		
+		
+			
+		
+
+		</div>
+		
+		<div class="sidemenu">
+				
+				
+			<p style="text-align:center;"><a href="physindex.html">Physicians</a></p>
+			<p style="text-align:center;"><a href="surgindex.html">Surgeons</a></p>
+			<p style="text-align:center;"><a href="junindex.html">Junior Doctors</a></p>
+			<p style="text-align:center;"><a href="studindex.html">Students</a>
+  			<p style="text-align:center;"><a href="extrasindex.html">Extras</a></p>
+  			<p><a href="htmlstuff/teacher notes.html">(teacher notes) </a></p>
+  		
+	
+		
+		</div>  		
+		 		
+ 		<div class="footer">&copy; Interviews conducted by Claire O'Donnell and developed in association with Coleg Cambria with webpage design by cjb</div>
+ 		
+	</div>
+
+
+</body>
+</html>

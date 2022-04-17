@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Why I’m a doctor – and why you could be too</title>
+
+<link rel = "stylesheet" type="text/css" href = "index.css">
+
+
+</head>
+
+<body>
+
+
+	
+	<div class="cjbgrid">
+	
+  		<div class="header"><p style="margin:1px;">Talking Doctors</p><p style="font-size:30px;margin:1px;">Why I’m a doctor .. and why you could be too</p>
+  		
+		</div>
+  		
+		<div class="menu1">
+						
+			<p style="text-align:center;margin:0px;"><a href="../index.html"  style="color:black">Home</a> </p>
+				
+		</div>  
+		
+		<div class="menu2">
+				
+			<p style="text-align:center;margin:0px;"><a href="index.html"  style="color:black">Doctors</a> </p>
+				
+		</div>  		
+  			
+  		<div class="menu3">
+				<p style="text-align:center;margin:0px;"><a href="../HCP interviews/hcpindex.html"  style="color:black">Health Care <br> Professionals</a> </p>
+				
+		</div>  		
+  		
+  		<div class="menu4">
+			<p style="text-align:center;margin:0px;"><a href="../Dentist interviews/dentistindex.html"  style="color:black">Dentists</a> </p>
+		
+		</div>  		
+  		
+  		<div class="menu5">
+				<p style="text-align:center;margin:0px;"><a href="../Vet interviews/vetindex.html"  style="color:black">Vets</a> </p>
+		</div>  		  	
+		
+		<div class="text">
+		
+			
+				
+				
+  		<p>The term 'Junior doctor' refers to all doctors who are not consultants even though they may have been qualifed for many years. 
+  		<p>The doctors you will hear from in this section have finished their 'basic training' as junior doctors and have decided on the area of medicine in which they would like to specialise. 
+  		<p>They talk about their training and what life is like in the early years after qualifying as a doctor</p>
+		</div>
+		
+		<div class="sidemenu">
+				
+				
+			<p style="text-align:center;margin:1px;">Junior Doctors:<br><a href="htmlstuff/junindex.html"></a></p>
+			
+		<p><a href="htmlstuff/AE.html">The A&E trainee</a></p>
+				<p><a href="htmlstuff/KG anaesthetist final.html">The anaesthetics trainee</a></p>
+				
+		</div>  		
+  			
+  		
+		 		
+ 		<div class="footer">&copy; Interviews conducted by Claire O'Donnell and developed in association with Coleg Cambria with webpage design by cjb</div>
+ 		
+	</div>
+
+
+</body>
+</html>

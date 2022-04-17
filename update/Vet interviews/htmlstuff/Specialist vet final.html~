@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Why I’m a vet</title>
+
+
+<link rel = "stylesheet" type="text/css" href = "clipcss.css">
+
+
+</head>
+<body>
+
+
+	<div class="cjbgrid">
+	
+		<div class="item1"><p style="margin:1px;">Talking Vets</p><p style="font-size:30px;margin:1px;">Why I’m a vet.. and why you could be too</p><p style="text-align:left;font-size:20px;margin:1px;";><a href="../index.html" style="color:black">Back</a></p>
+		</div>
+	
+  		<div class="item4">
+  	
+  		<p><strong>Specialist Vet:</strong></p>
+  		
+  		<p>These vets have chosen to focus on specific areas of veterinary practice and have undertaken additional training in that field.  
+  		<p>They offer care for more complex and unusual conditions.  
+  		<p>They work in conjunction with general practitioners across a wide geographic area to offer advice and in some cases, direct care, to animals who require specialised interventions. 
+		
+    	 
+    	
+ 	
+  		</div>
+
+      <div class="item5">
+   
+     
+       <p style="font-size:16px;text-align:center;">(Use the video icons to control the VOLUME and FULL-SCREEN option)</p>
+     
+  <p><video controls><source src="../clips/Specialist vet final.mp4"></video><p>
+      
+      
+     
+  		
+      </div>
+		<div class="item100">&copy; Interviews conducted by Claire O'Donnell and developed in association with Coleg Cambria with webpage design by cjb</div>
+ 		</div>
+ 		
+	</div>
+
+
+</body>
+</html>

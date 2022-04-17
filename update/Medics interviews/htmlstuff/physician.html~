@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Why I’m a doctor – and why you could be too</title>
+
+
+
+<style type="text/css">
+
+
+
+body { 
+
+background-image:url('..blurb.jpg');
+font-style:italic;
+font-family:sans-serif;
+color:black;
+}
+
+a
+{
+color:blue;
+}
+
+
+
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header header header header header'
+  'sub1 sub2 sub3 sub4 sub5'
+  'htmlstuff htmlstuff htmlstuff htmlstuff htmlstuff'
+  'footer footer footer footer footer';
+  grid-gap: 1px;
+  background-color: #000000; /* gives colour of 1px gap*/
+  
+  max-width:1280px;
+height:auto;
+margin:auto; /* centres grid */
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: blue;
+  text-align: center;
+ padding:10px;
+  font-size: 50px;
+  color:white;
+ 
+  
+}
+
+.item2 {
+grid-area: htmlstuff; 
+background-color: white;
+  text-align: left;
+padding:50px 300px 50px 300px;
+  font-size: 20px;
+ 
+  }
+
+.item3 {
+
+grid-area: sub1; 
+background-color: white;
+  text-align: left;
+  padding:10px;
+  font-size: 20px;
+  
+
+}
+
+.item3a {
+
+grid-area: sub2; 
+background-color: white;
+  text-align: left;
+  padding:10px;
+  font-size: 20px;
+  
+
+}
+
+.item3b {
+
+grid-area: sub3;
+background-color: white;
+  text-align: left;
+   padding:10px;
+  font-size: 20px;
+ 
+
+}
+
+.item3c {
+
+grid-area: sub4;
+background-color: white;
+  text-align: left;
+   padding:10px;
+  font-size: 20px;
+ 
+
+}
+
+.item3d {
+
+grid-area: sub5;
+background-color: white;
+  text-align: left;
+   padding:10px;
+  font-size: 20px;
+ 
+
+}
+
+.item100 { 
+grid-area: footer; 
+background-color: #bbbbbb;
+  padding: 10px;
+  font-size: 12px;
+  text-align:center;
+  
+  }
+  
+hr {
+        width: 100%;
+        height: 1px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: black;
+        border: 0 none;
+      }
+    
+
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+  		<div class="item1"><p style="margin:1px;">Talking Doctors</p><p style="font-size:30px;margin:1px;">Why I’m a doctor .. and why you could be too</p><p style="text-align:left;font-size:20px;margin:1px;"><a href="../index.html" style="color:white">Back</a></p>
+  		
+		</div>
+  		<div class="item3">
+				
+				
+			<p style="text-align:center;margin:1px;"><strong>Physicians:</strong> <!--<br><a href="htmlstuff/physicians.html">(what do they do?)</a>--></p>
+				
+		<!--<p><a href="htmlstuff/kd.html">The GP</a></p>
+		<p><a href="htmlstuff/kl.html">The Public Health Doctor</a></p>
+		<p><a href="htmlstuff/co.html">The Professor of Sexual Health and HIV medicine</a></p>
+		<p><a href="htmlstuff/pm.html">The Pathologist</a></p>
+		<p><a href="htmlstuff/an.html">The Anaesthetist</a></p>
+		<p><a href="htmlstuff/gastro.html">The Gastroenterologist</a></p>-->
+		</div>  		
+  			
+  		<div class="item3a">
+				<p style="text-align:center;margin:1px;"><strong>Surgeons:</strong> <!--<br><a href="htmlstuff/surgery.html">(what is surgery?)</a>--></p>
+				
+				<!--<p><a href="htmlstuff/vascular.html">The Vascular surgeon</a></p>
+				<p><a href="htmlstuff/tk.html">The oncoplastic surgeon</a></p>
+				<p><a href="htmlstuff/lc.html">The general and breast surgeon</a></p>
+				<p><a href="htmlstuff/sk.html">The general and upper GI surgeon</a></p>-->
+				
+				
+		
+		
+		</div>  		
+  		
+  		<div class="item3b">
+			<p style="text-align:center;margin:1px;"><strong>Junior doctors:</strong><!--<br><a href="htmlstuff/junior.html">What is a junior doctor?</a>--></p>
+				
+				
+				<!--<p><a href="htmlstuff/AE.html">The A&E trainee</a></p>
+				<p><a href="htmlstuff/KG anaesthetist final.html">The anaesthetics trainee</a></p>-->
+		
+		
+		</div>  		
+  		
+  		<div class="item3c">
+  		<p style="text-align:center;margin:1px;"><strong>Students:</strong>
+  		
+  				<!--<p>Final year students <a href="htmlstuff/ellie.html">Ellie</a>, <a href="htmlstuff/Jonathan.html">Jonathan</a> and <a href="htmlstuff/Ruairidh.html">Ruairidh</a> demonstrate the dos and don’ts of interviews</p>
+				<p><a href="htmlstuff/finalqa.html">Final year students talk about applying and uni life</a></p>
+				<p><a href="htmlstuff/grad.html">The graduate medical student</a></p>-->
+		</div>
+				
+		<div class="item3d">
+  		<p style="text-align:center;margin:1px;"><strong>Extras:</strong></p>
+				<!--<p><a href="htmlstuff/books.html">Recommended books for an insight into medical life</a>	</p>
+				<p><a href="htmlstuff/outuk.html">Working outside the UK, including Ebola outbreaks</a>	</p>
+				<p><a href="htmlstuff/family.html">Managing family life as a doctor</a>	</p>
+				<p><a href="htmlstuff/perstat.html">Writing your personal statement</a></p>-->
+				
+		
+		</div>
+			
+  		<div class="item2">
+  		
+  		<p>Physicians diagnose and treat conditions and illnesses with medication rather than operations. 
+  		<p>After their first few years as a junior doctor, they go on to specialise in a particular area of medicine.</p>  
+  		<p>Some stay in hospital and become specialist consultants like cardiologists (problems of the heart), psychiatrists (problems with mental health) or radiologists (interpreting medical images like x rays and CAT scans).  </p>
+  		<p>Others like to look after a wide range people with a variety of health problems and become General Practitioners (GPs).</p>
+		
+  		
+  		
+  		
+  		</div>
+  		
+		
+		
+		 		
+ 		<div class="item100">&copy; Interviews conducted by Claire O'Donnell and developed in association with Coleg Cambria with webpage design by cjb</div>
+ 		
+	</div>
+
+
+</body>
+</html>
