@@ -6,6 +6,7 @@
 
 <title>Why I’m a doctor – and why you could be too</title>
 
+
 <link rel = "stylesheet" type="text/css" href = "../index.css">
 
 
@@ -14,7 +15,7 @@
 <body>
 
 
-		<div class="cjbgrid">
+	<div class="cjbgrid">
 	
   		<div class="header">
   		<p style="margin:10px;">Talking Doctors</p><p style="font-size:30px;margin:5px;">Why I’m a doctor .. and why you could be too</p>
@@ -35,23 +36,19 @@
 		</div>
 		
 		<div class="text">
-		
 			
 				
-				<p>Final year students Ellie,  Jonathan and  Ruairidh demonstrate the dos and don’ts of interviews</p>
-				<p>Final year students talk about applying and uni life</p>
+				<p><a href="htmlstuff/books.html">Recommended books for an insight into medical life</a>	</p>
+				<p><a href="htmlstuff/outuk.html">Working outside the UK, including Ebola outbreaks</a>	</p>
+				<p><a href="htmlstuff/family.html">Managing family life as a doctor</a>	</p>
+				<p><a href="htmlstuff/perstat.html">Writing your personal statement</a></p>
 				
 		</div>
 		
 		<div class="sidemenu">
 				
-				<p style="text-align:center;margin:1px;"> Students:
-				<p><a href="htmlstuff/ellie.html">Ellie</a>
-				<p><a href="htmlstuff/Jonathan.html">Jonathan</a>
-				<p><a href="htmlstuff/Ruairidh.html">Ruairidh</a>
-				<p><a href="htmlstuff/final year qa.html">Final year students</a>
-				<p><a href="htmlstuff/Graduate medical student.html">The graduate medical student</a></p>
-				
+			
+				<p style="text-align:center;margin:1px;">Extras:
 		
 				
 		</div>  		

@@ -62,9 +62,11 @@ color:black;}
 			
 				
 		<p><a href="htmlstuff/optom.html">The Optometrist</a></p>
-		<p><a href="htmlstuff/pa.html">The Physicians Associate</a></p>
-		<p><a href="htmlstuff/PN.html">The Paediatric Nurse</a></p>
+		<p><a href="htmlstuff/physicians associate.html">The Physicians Associate</a></p>
+		<p><a href="htmlstuff/paediatric nurse.html">The Paediatric Nurse</a></p>
 		<p><a href="htmlstuff/The Clinical Pharmacist.html">The Clinical Pharmacist</a></p>
+		<p><a href="htmlstuff/midwife.html">The Midwife</a></p>
+		<p><a href="htmlstuff/Physio.html">The Physiotherapist</a></p>
 			
 		
 		</div>  		

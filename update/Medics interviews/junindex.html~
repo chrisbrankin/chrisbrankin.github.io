@@ -14,9 +14,10 @@
 <body>
 
 
-		<div class="cjbgrid">
 	
-  		<div class="header">
+	<div class="cjbgrid">
+	
+  	<div class="header">
   		<p style="margin:10px;">Talking Doctors</p><p style="font-size:30px;margin:5px;">Why I’m a doctor .. and why you could be too</p>
 		
 		</div>
@@ -35,24 +36,21 @@
 		</div>
 		
 		<div class="text">
-		
 			
 				
-				<p>Final year students Ellie,  Jonathan and  Ruairidh demonstrate the dos and don’ts of interviews</p>
-				<p>Final year students talk about applying and uni life</p>
 				
+  		<p>The term 'Junior doctor' refers to all doctors who are not consultants even though they may have been qualifed for many years. 
+  		<p>The doctors you will hear from in this section have finished their 'basic training' as junior doctors and have decided on the area of medicine in which they would like to specialise. 
+  		<p>They talk about their training and what life is like in the early years after qualifying as a doctor</p>
 		</div>
 		
 		<div class="sidemenu">
 				
-				<p style="text-align:center;margin:1px;"> Students:
-				<p><a href="htmlstuff/ellie.html">Ellie</a>
-				<p><a href="htmlstuff/Jonathan.html">Jonathan</a>
-				<p><a href="htmlstuff/Ruairidh.html">Ruairidh</a>
-				<p><a href="htmlstuff/final year qa.html">Final year students</a>
-				<p><a href="htmlstuff/Graduate medical student.html">The graduate medical student</a></p>
 				
-		
+			<p style="text-align:center;margin:1px;">Junior Doctors:<br><a href="htmlstuff/junindex.html"></a></p>
+			
+		<p><a href="htmlstuff/A&E trainee final.html">The A&E trainee</a></p>
+				<p><a href="htmlstuff/KG anaesthetist final.html">The anaesthetics trainee</a></p>
 				
 		</div>  		
   			
