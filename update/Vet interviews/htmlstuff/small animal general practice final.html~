@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Why I’m a vet</title>
+
+
+<link rel = "stylesheet" type="text/css" href = "../../index.css">
+<style>
+.header{
+background-color:lightgreen;
+color:black;}
+</style>
+<style>
+.header{
+background-color:lightgreen;
+color:black;}
+</style>
+
+
+</head>
+<body>
+
+
+	<div class="cjbgrid">
+	
+	<div class="header"><p style="margin:1px;">Talking Vets</p><p style="font-size:30px;margin:1px;">Why I’m a vet .. and why you could be too</p>
+		</div>
+	<div class="menu">
+		
+		<p style="margin:10px;">&nbsp&nbsp<a href="../../index.html" style="color: black">Home</a>  
+		&nbsp&nbsp<a href="../../Medics interviews/index.html" style="color:blue">Doctors</a>
+		&nbsp/&nbsp<a href="../../HCP interviews/hcpindex.html" style="color:yellow">Health Care Professionals</a>
+		&nbsp/&nbsp<a href="../../Dentist interviews/dentistindex.html" style="color:pink">Dentists</a>
+		&nbsp/&nbsp<a href="../vetindex.html" style="color:lightgreen">Vets</a>
+		&nbsp&nbsp<a href="../../contacts.html" style="color: black">Contacts</a>
+		</p>
+	
+				
+		</div>
+		 		  		
+  		<div class="sidemenu">
+  	
+  		<p><strong>Small Animal General Practice:</strong></p>
+  		
+  		<p>These vets are the ones that most people think of when they think about veterinary practice.  
+  		<p>Many will have practices in the local high street.  
+  		<p>They look after companion animals, the majority of these are cats and dogs but can also include guinea pigs, rabbits and hamsters.  
+  		<p>Some will offer care for birds and more exotic pets such as lizards and spiders.  
+  		<p>They provide routine health care, disease screening and advice, manage chronic conditions and undertake the ‘routine’  surgeries, such as neutering, lump removals and taking x-rays.  
+  		<p>Some will have additional expertise in specific areas.  
+  		<p>They will refer to specialists for advice when needed and can refer animals onwards to referral units if they require more specialised care or procedures.
+		
+    	 
+    	
+ 	
+  		</div>
+
+      <div class="text">
+   
+     
+       <p style="font-size:16px;text-align:center;">(Use the video icons to control the VOLUME and FULL-SCREEN option)</p>
+     
+  <p><video controls><source src="../clips/small animal general practice final.mp4"></video><p>
+      
+      
+     
+  		
+      </div>
+		<div class="footer">&copy; Interviews conducted by Claire O'Donnell and developed in association with Coleg Cambria with webpage design by cjb</div>
+ 		</div>
+ 		
+	</div>
+
+
+</body>
+</html>

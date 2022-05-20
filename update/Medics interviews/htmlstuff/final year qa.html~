@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+
+<title>Ouch!</title>
+
+
+
+<link rel = "stylesheet" type="text/css" href = "../../index.css">
+<style>
+
+
+
+hr {
+        width: 100%;
+        height: 1px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: black;
+        border: 0 none;
+      }
+
+</style>
+
+</head>
+<body>
+
+
+		<div class="cjbgrid">
+	
+	<div class="header">
+  		<p style="margin:10px;">Talking Doctors</p><p style="font-size:30px;margin:5px;">Why I’m a doctor .. and why you could be too</p>
+		
+		</div>
+		
+		<div class="menu">
+		
+		<p style="margin:10px; text-align:center;">
+		<a href="../studindex.html" style="color:white">Back</a>
+		&nbsp&nbsp<a href="../../index.html" style="color: black">Home</a> 
+		&nbsp&nbsp<a href="../index.html" style="color:blue">Doctors</a>
+		&nbsp/&nbsp<a href="../../HCP interviews/hcpindex.html" style="color:yellow">Health Care Professionals</a>
+		&nbsp/&nbsp<a href="../../Dentist interviews/dentistindex.html" style="color:pink">Dentists</a>
+		&nbsp/&nbsp<a href="../../Vet interviews/vetindex.html" style="color:lightgreen">Vets</a>
+		&nbsp&nbsp<a href="../../contacts.html" style="color: black">Contacts</a>
+		</p>
+	
+				
+		</div>
+		 		  		
+  		<div class="sidemenu">
+  
+   
+    	<p><strong>Final year students Ellie, Jonathan and Ruairidh answer questions on how to handle interview questions <br>and about life as a medical student:</strong></p>
+  		<p>1. How much of a challenge did you find the application process and how focussed did you have to be?
+<p>2. What was the most useful thing you did in preparing for the interviews?
+<p>3. How did you find the interviews?
+<p>4. Any tips for how to manage if one of the interviews goes badly?
+
+<p style="text-align:center;">Questions from the sixth form ...</p>
+
+<p>5.  How did you chose your medical schools?
+<p>6.  How big a jump is there between A level and 1st year?
+<p>7.  How much patient contact did you have in the early years of the course?
+<p>8.  What's the hardest part of the first 2 years?
+<p>9.  Have you had a chance to specialise?
+<p>10. How hard was it to budget?
+<p>11. Do you have more work than other courses?
+<p>12. Do you have any time for fun or is it just a load of work?
+		
+		
+    	
+  		
+  		</div>
+
+      <div class="text">
+   
+    <p style="font-size:16px;text-align:center;">(Use the video icons to control the VOLUME and FULL-SCREEN option)</p>
+  		
+  		<p >Question 1: Question 2:</p>
+  		<p ><video width="200" controls><source src="../clips/final year qa1.mp4"></video> <video width="200" controls><source src="../clips/final year qa2.mp4"></video></p><hr>
+  		<p >Question 3: Question 4:</p>
+  		<p ><video width="200" controls><source src="../clips/final year qa3.mp4"></video> <video width="200" controls><source src="../clips/final year qa4.mp4"></video></p><hr>
+  		<p >Question 5: Question 6:</p>
+  		<p ><video width="200" controls><source src="../clips/final year qa5.mp4"></video> <video width="200" controls><source src="../clips/final year qa6.mp4"></video></p><hr>
+  		<p >Question 7: Question 8:</p>
+  		<p ><video width="200" controls><source src="../clips/final year qa7.mp4"></video> <video width="200" controls><source src="../clips/final year qa8.mp4"></video></p><hr>
+  		<p >Question 9: Question 10:</p>
+  		<p ><video width="200" controls><source src="../clips/final year qa9.mp4"></video> <video width="200" controls><source src="../clips/final year qa10.mp4"></video></p><hr>
+  		<p >Question 11: Question 12:</p>
+  		<p ><video width="200" controls><source src="../clips/final year qa11.mp4"></video> <video width="200" controls><source src="../clips/final year qa12.mp4"></video></p><hr>
+  		
+     
+      
+      </div>
+		 		
+ 		<div class="footer">&copy; Interviews conducted by Claire O'Donnell and developed in association with Coleg Cambria with webpage design by cjb</div>
+ 		
+	</div>
+
+
+</body>
+</html>
