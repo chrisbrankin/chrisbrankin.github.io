@@ -44,7 +44,7 @@ margin:auto;
 
 .item1 { 
 grid-area: header; 
-background-color: #222222;
+background-color: #252525;
   text-align: left;
   padding: 10px;
   font-size: 40px;
@@ -52,7 +52,7 @@ background-color: #222222;
 
 .item1a { 
 grid-area: title; 
-background-color: #222222;
+background-color: #252525;
   text-align: center;
   padding: 10px;
   font-size: 30px;
@@ -61,7 +61,7 @@ background-color: #222222;
 .item2 { 
 grid-area: sketch; 
 display:inline-block;
-background-color: #222222;
+background-color: #505050;
   text-align: center;
   padding:20px;
   font-size: 15px;
@@ -72,7 +72,7 @@ background-color: #222222;
 
 .item4 { 
 grid-area: footer; 
-background-color: #222222;
+background-color: #252525;
   padding: 10px;
   font-size: 15px;
   text-align:left;
