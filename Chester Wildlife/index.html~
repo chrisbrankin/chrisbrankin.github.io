@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="description" content="Chris Brankin cjb astrophotography sketches video clips equipment">
+
+<title>cjb's astrophotography</title>
+<style type="text/css">
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: green;/*default text colour*/
+background-image:url(background.jpg);
+}
+
+a:link {color:green;}
+a:visited {color:green;}
+
+img
+{
+max-width: 100%;
+  height: auto;
+ border: 0px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  }
+ 
+
+/* create grid with three rows and two columns with eg header spread over two columns*/
+.cjbgrid {
+  display: grid;
+  grid-template-areas:
+  'header header'
+  'menu image'
+  'footer details';
+  grid-gap: 1px;
+  background-color: green; /* this sets colour of grid lines*/
+  padding: 0px;
+  max-width:1280px;
+height:auto;
+margin:auto;
+}
+
+/* set defaults for all the grid areas*/
+
+
+
+.item1 { 
+grid-area: header; 
+background-color: #dddddd;
+  text-align: left;
+  padding: 10px;
+  font-size: 40px;
+}
+
+
+
+.item2 { 
+grid-area: menu; 
+background-color: #eeeeee;
+  text-align: center;
+  padding:30px;
+  font-size: 25px;
+  }
+  
+.item3 { 
+grid-area: image;
+background-color: #eeeeee;
+  text-align: center;
+  padding: 50px;
+  font-size: 25px;  
+  }
+
+.item4 { 
+grid-area: footer; 
+background-color: #dddddd;
+  padding: 10px;
+  font-size: 15px;
+  text-align:left;
+  }
+  
+  .item5 { 
+grid-area: details; 
+background-color: #dddddd;
+  padding: 10px;
+  font-size: 15px;
+  text-align:right;
+  }
+
+
+</style>
+</head>
+
+<body>
+
+
+	<div class="cjbgrid">
+	
+  		<div class="item1">Wildlife in a Chester garden</div>
+  		
+  		
+  		<div class="item2"><p>
+  			<a href="Animals/index.html">Animals</a><p>
+			<a href="Birds/index.html">Birds</a><p>
+			<a href="Butterflies etc/index.html">Butterflies etc</a><p>
+			<a href="Wildflowers/index.html">Wildflowers</a><p>
+			
+		</div>
+			
+  		<div class="item3"><img src="20130808 Large White.JPG" alt=""><p></p></div>  
+  		<div class="item4"><a href="../index.html">back</a></div>
+  		<div class="item5"></a></div>
+  		
+  	</div>
+
+</body>
+</html>

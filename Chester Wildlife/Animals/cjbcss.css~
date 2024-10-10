@@ -1,0 +1,55 @@
+
+
+
+body
+
+{
+font-family:sans-serif;
+font-style:italic;
+color: white;/*default text colour*/
+background-image:url(background.jpg);
+}
+
+a:link {color:white;}
+a:visited {color:white;}
+
+
+
+img {
+max-width:100%;
+height:auto;
+}
+ 
+.cjbgrid {
+display: grid;
+grid-template-areas:
+'image'
+'footer';
+background-color: black; /* this sets colour of grid lines*/
+margin:auto;
+max-width:1280px;
+}
+
+/* set defaults for all the grid areas*/
+
+
+  
+.item3 { 
+grid-area: image;
+background-color: #070707;
+text-align: center;
+padding: 20px;
+font-size: 20px; 
+
+  }
+
+.item4 { 
+grid-area: footer; 
+background-color: #070707;
+padding: 10px;
+font-size: 15px;
+text-align:left;
+  }
+  
+
+
