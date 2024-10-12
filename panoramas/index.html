@@ -19,9 +19,14 @@ color:white;
 background-color:black;
 }
 
+img {
 
+max-width:100%;
+height:auto;
 
-/* create grid with four rows and two columns with eg header+footer spread over two columns*/
+}
+
+/* create grid */
 .cjbgrid {
   display: grid;
   grid-template-areas:
@@ -29,13 +34,11 @@ background-color:black;
   'list'
   'panorama'
   'footer';
-  grid-gap: 0px;
   background-color: #000000; /* gives colour of 1px gap*/
-  padding: 0px;
-  
-height:100%;
-width:auto;
-margin:auto; /* centers grid */
+
+height:auto;
+max-width:100%;
+
 }
 
 /* set defaults for all the grid areas*/
@@ -46,26 +49,27 @@ margin:auto; /* centers grid */
 grid-area: header; 
 background-color: #222222;
   text-align: left;
-  padding: 0px;
+  
   font-size: 50px;
-
+max-width:100%;
 }
 .item2 { 
 grid-area: list; 
 background-color: #222222;
   text-align: center;
-  padding: 10px;
+  
   font-size: 25px;
+  max-width:100%;
 }
 
   
 .item3 { 
 grid-area: panorama;
-background-color: #000000;
-  text-align: center;
-  padding: 0px;
+background-color: black;
+ text-align: center;
+  
   font-size: 25px; 
-  margin:auto;
+ max-width:100%;
   height:100%;
   }
   
@@ -73,10 +77,11 @@ background-color: #000000;
 
 .item6 { 
 grid-area: footer; 
-background-color: #000000;
-  padding: 0px;
+background-color: #222222;
+  
   font-size: 25px;
   text-align:left;
+  max-width:100%;
   }
 
 </style>
